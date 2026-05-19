@@ -1,0 +1,2600 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/uchkgj",
+    "id": "uchkgj",
+    "slide": 5,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "1",
+      "name": "drivers-title",
+      "bbox": [
+        76,
+        76,
+        1768,
+        84
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "Il risultato cambia per motivi precisi.",
+      "textPreview": "Il risultato cambia per motivi precisi.",
+      "resolvedFontSize": 70,
+      "resolvedTextStyle": {
+        "fontSize": 70,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Il risultato cambia per motivi precisi."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Il risultato cambia per motivi precisi.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Il risultato cambia per motivi precisi.",
+              "fontSize": 70,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "2",
+      "name": "driver-0",
+      "bbox": [
+        76,
+        186,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "3",
+      "name": "driver-title-0",
+      "bbox": [
+        104,
+        214,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0.0"
+      },
+      "geometry": "rect",
+      "text": "Anticipo alto",
+      "textPreview": "Anticipo alto",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Anticipo alto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Anticipo alto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Anticipo alto",
+              "fontSize": 40,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "4",
+      "name": "driver-body-0",
+      "bbox": [
+        104,
+        274,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0.1"
+      },
+      "geometry": "rect",
+      "text": "favorisce affitto + investimento",
+      "textPreview": "favorisce affitto + investimento",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "favorisce affitto + investimento"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "favorisce affitto + investimento",
+          "runs": [
+            {
+              "index": 1,
+              "text": "favorisce affitto + investimento",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "5",
+      "name": "driver-1",
+      "bbox": [
+        673.33,
+        186,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "6",
+      "name": "driver-title-1",
+      "bbox": [
+        702,
+        214,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0.0"
+      },
+      "geometry": "rect",
+      "text": "ETF alto",
+      "textPreview": "ETF alto",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ETF alto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ETF alto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "ETF alto",
+              "fontSize": 40,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "7",
+      "name": "driver-body-1",
+      "bbox": [
+        702,
+        274,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0.1"
+      },
+      "geometry": "rect",
+      "text": "sposta avanti il break-even",
+      "textPreview": "sposta avanti il break-even",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "sposta avanti il break-even"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "sposta avanti il break-even",
+          "runs": [
+            {
+              "index": 1,
+              "text": "sposta avanti il break-even",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "8",
+      "name": "driver-2",
+      "bbox": [
+        1270.67,
+        186,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "9",
+      "name": "driver-title-2",
+      "bbox": [
+        1298,
+        214,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2.0.0"
+      },
+      "geometry": "rect",
+      "text": "Affitto caro",
+      "textPreview": "Affitto caro",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Affitto caro"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Affitto caro",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Affitto caro",
+              "fontSize": 40,
+              "color": "#16803C",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "10",
+      "name": "driver-body-2",
+      "bbox": [
+        1298,
+        274,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2.0.1"
+      },
+      "geometry": "rect",
+      "text": "aiuta l'acquisto",
+      "textPreview": "aiuta l'acquisto",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "aiuta l'acquisto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "aiuta l'acquisto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "aiuta l'acquisto",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "11",
+      "name": "driver-3",
+      "bbox": [
+        76,
+        580.8,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.3"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "12",
+      "name": "driver-title-3",
+      "bbox": [
+        104,
+        608,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.3.0.0"
+      },
+      "geometry": "rect",
+      "text": "Costo vendita",
+      "textPreview": "Costo vendita",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Costo vendita"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Costo vendita",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Costo vendita",
+              "fontSize": 40,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "13",
+      "name": "driver-body-3",
+      "bbox": [
+        104,
+        668,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.3.0.1"
+      },
+      "geometry": "rect",
+      "text": "morde se esci presto",
+      "textPreview": "morde se esci presto",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "morde se esci presto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "morde se esci presto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "morde se esci presto",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nuxc3yl",
+      "id": "14",
+      "name": "driver-4",
+      "bbox": [
+        673.33,
+        580.8,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF"
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8nqxs72",
+      "id": "15",
+      "name": "driver-title-4",
+      "bbox": [
+        702,
+        608,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4.0.0"
+      },
+      "geometry": "rect",
+      "text": "Manutenzione",
+      "textPreview": "Manutenzione",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Manutenzione"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Manutenzione",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Manutenzione",
+              "fontSize": 40,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "16",
+      "name": "driver-body-4",
+      "bbox": [
+        702,
+        668,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4.0.1"
+      },
+      "geometry": "rect",
+      "text": "non è opzionale",
+      "textPreview": "non è opzionale",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "non è opzionale"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "non è opzionale",
+          "runs": [
+            {
+              "index": 1,
+              "text": "non è opzionale",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72x4nap4",
+      "id": "17",
+      "name": "driver-5",
+      "bbox": [
+        1270.67,
+        580.8,
+        573.33,
+        370.8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.5"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "18",
+      "name": "driver-title-5",
+      "bbox": [
+        1298,
+        608,
+        518,
+        48
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.5.0.0"
+      },
+      "geometry": "rect",
+      "text": "Rivalutazione",
+      "textPreview": "Rivalutazione",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Rivalutazione"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Rivalutazione",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Rivalutazione",
+              "fontSize": 40,
+              "color": "#F5A623",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "19",
+      "name": "driver-body-5",
+      "bbox": [
+        1298,
+        668,
+        518,
+        32
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.5.0.1"
+      },
+      "geometry": "rect",
+      "text": "puo' salvare o affondare",
+      "textPreview": "puo' salvare o affondare",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "puo' salvare o affondare"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "puo' salvare o affondare",
+          "runs": [
+            {
+              "index": 1,
+              "text": "puo' salvare o affondare",
+              "fontSize": 26,
+              "color": "#111827"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "20",
+      "name": "footer-brand-5",
+      "bbox": [
+        76,
+        978,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvy90je9",
+      "id": "21",
+      "name": "footer-rule-5",
+      "bbox": [
+        210,
+        978,
+        1564,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "22",
+      "name": "footer-page-5",
+      "bbox": [
+        1788,
+        978,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.2"
+      },
+      "geometry": "rect",
+      "text": "5/7",
+      "textPreview": "5/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "5/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "column",
+        "name": "drivers-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 152,
+          "height": 314.4
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "drivers-title",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 0,
+              "height": 84
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            },
+            "children": [],
+            "text": "Il risultato cambia per motivi precisi.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/m1cfa9w3",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "grid",
+            "name": "drivers-grid",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 48,
+              "height": 24
+            },
+            "frame": {
+              "left": 76,
+              "top": 186,
+              "width": 1768,
+              "height": 765.6
+            },
+            "children": [
+              {
+                "path": "0.1.0",
+                "kind": "panel",
+                "name": "driver-0",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.0.0",
+                    "kind": "column",
+                    "name": "driver-stack-0",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 104,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.0.0.0",
+                        "kind": "text",
+                        "name": "driver-title-0",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 104,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 104,
+                          "top": 214,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "Anticipo alto",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/47y1kre1",
+                          "id": "3",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.1",
+                        "kind": "text",
+                        "name": "driver-body-0",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 104,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 104,
+                          "top": 274,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "favorisce affitto + investimento",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/bat47y1k",
+                          "id": "4",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 104,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.0.0.0",
+                        "frame": {
+                          "left": 104,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.1",
+                        "frame": {
+                          "left": 104,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 104,
+                  "top": 214,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/tsvu9kni",
+                  "id": "2",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.1",
+                "kind": "panel",
+                "name": "driver-1",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 673.33,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 673.33,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.1.0",
+                    "kind": "column",
+                    "name": "driver-stack-1",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 701.33,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.1.0.0",
+                        "kind": "text",
+                        "name": "driver-title-1",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 701.33,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 702,
+                          "top": 214,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "ETF alto",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/tgfmlkjm",
+                          "id": "6",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.1",
+                        "kind": "text",
+                        "name": "driver-body-1",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 701.33,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 702,
+                          "top": 274,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "sposta avanti il break-even",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/4vmtwra5",
+                          "id": "7",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 701.33,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.1.0.0",
+                        "frame": {
+                          "left": 701.33,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.1",
+                        "frame": {
+                          "left": 701.33,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 701.33,
+                  "top": 214,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/mp0bi9s3",
+                  "id": "5",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.2",
+                "kind": "panel",
+                "name": "driver-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 1270.67,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 1270.67,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.2.0",
+                    "kind": "column",
+                    "name": "driver-stack-2",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 1298.67,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.2.0.0",
+                        "kind": "text",
+                        "name": "driver-title-2",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 1298,
+                          "top": 214,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "Affitto caro",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/mhk3q5o7",
+                          "id": "9",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.2.0.1",
+                        "kind": "text",
+                        "name": "driver-body-2",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 1298,
+                          "top": 274,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "aiuta l'acquisto",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/0z61032l",
+                          "id": "10",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 1298.67,
+                      "top": 214,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.2.0.0",
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 214,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.2.0.1",
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 274,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 1298.67,
+                  "top": 214,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/b2hwfyxo",
+                  "id": "8",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.3",
+                "kind": "panel",
+                "name": "driver-3",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.3.0",
+                    "kind": "column",
+                    "name": "driver-stack-3",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 104,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.3.0.0",
+                        "kind": "text",
+                        "name": "driver-title-3",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 104,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 104,
+                          "top": 608,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "Costo vendita",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/itgfmlkj",
+                          "id": "12",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.3.0.1",
+                        "kind": "text",
+                        "name": "driver-body-3",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 104,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 104,
+                          "top": 668,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "morde se esci presto",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/7ed8bat4",
+                          "id": "13",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 104,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.3.0.0",
+                        "frame": {
+                          "left": 104,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.3.0.1",
+                        "frame": {
+                          "left": 104,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 104,
+                  "top": 608.8,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/pkzupwb2",
+                  "id": "11",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.4",
+                "kind": "panel",
+                "name": "driver-4",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 673.33,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 673.33,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.4.0",
+                    "kind": "column",
+                    "name": "driver-stack-4",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 701.33,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.4.0.0",
+                        "kind": "text",
+                        "name": "driver-title-4",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 701.33,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 702,
+                          "top": 608,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "Manutenzione",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/p8nqxs72",
+                          "id": "15",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.4.0.1",
+                        "kind": "text",
+                        "name": "driver-body-4",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 701.33,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 702,
+                          "top": 668,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "non è opzionale",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/ih4byhgn",
+                          "id": "16",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 701.33,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.4.0.0",
+                        "frame": {
+                          "left": 701.33,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.4.0.1",
+                        "frame": {
+                          "left": 701.33,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 701.33,
+                  "top": 608.8,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/0nuxc3yl",
+                  "id": "14",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.5",
+                "kind": "panel",
+                "name": "driver-5",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 56
+                },
+                "frame": {
+                  "left": 1270.67,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "snappedFrame": {
+                  "left": 1270.67,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                },
+                "children": [
+                  {
+                    "path": "0.1.5.0",
+                    "kind": "column",
+                    "name": "driver-stack-5",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 91.2
+                    },
+                    "frame": {
+                      "left": 1298.67,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.5.0.0",
+                        "kind": "text",
+                        "name": "driver-title-5",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 48
+                        },
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        },
+                        "snappedFrame": {
+                          "left": 1298,
+                          "top": 608,
+                          "width": 518,
+                          "height": 48
+                        },
+                        "children": [],
+                        "text": "Rivalutazione",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/wjudg7ad",
+                          "id": "18",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.5.0.1",
+                        "kind": "text",
+                        "name": "driver-body-5",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 31.2
+                        },
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        },
+                        "snappedFrame": {
+                          "left": 1298,
+                          "top": 668,
+                          "width": 518,
+                          "height": 32
+                        },
+                        "children": [],
+                        "text": "puo' salvare o affondare",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/p4r65wju",
+                          "id": "19",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 12,
+                    "effectiveGap": 12,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 1298.67,
+                      "top": 608.8,
+                      "width": 517.33,
+                      "height": 314.8
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.5.0.0",
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 608.8,
+                          "width": 517.33,
+                          "height": 48
+                        }
+                      },
+                      {
+                        "path": "0.1.5.0.1",
+                        "frame": {
+                          "left": 1298.67,
+                          "top": 668.8,
+                          "width": 517.33,
+                          "height": 31.2
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 28,
+                  "right": 28,
+                  "bottom": 28,
+                  "left": 28
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 1298.67,
+                  "top": 608.8,
+                  "width": 517.33,
+                  "height": 314.8
+                },
+                "element": {
+                  "aid": "sh/72x4nap4",
+                  "id": "17",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "columnGap": 24,
+            "rowGap": 24,
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 76,
+              "top": 186,
+              "width": 1768,
+              "height": 765.6
+            },
+            "columns": [
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "rows": [
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "autoRows": "auto",
+            "resolvedRows": [
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "columnSizes": [
+              573.33,
+              573.33,
+              573.33
+            ],
+            "rowSizes": [
+              370.8,
+              370.8
+            ],
+            "cells": [
+              {
+                "path": "0.1.0",
+                "column": 0,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 76,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              },
+              {
+                "path": "0.1.1",
+                "column": 1,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 673.33,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              },
+              {
+                "path": "0.1.2",
+                "column": 2,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 1270.67,
+                  "top": 186,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              },
+              {
+                "path": "0.1.3",
+                "column": 0,
+                "row": 1,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 76,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              },
+              {
+                "path": "0.1.4",
+                "column": 1,
+                "row": 1,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 673.33,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              },
+              {
+                "path": "0.1.5",
+                "column": 2,
+                "row": 1,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 1270.67,
+                  "top": 580.8,
+                  "width": 573.33,
+                  "height": 370.8
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.2",
+            "kind": "row",
+            "name": "footer-5",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 204,
+              "height": 26.4
+            },
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "children": [
+              {
+                "path": "0.2.0",
+                "kind": "text",
+                "name": "footer-brand-5",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 120
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 120,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 978,
+                  "width": 120,
+                  "height": 28
+                },
+                "children": [],
+                "text": "citta.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/9gr2p8nq",
+                  "id": "20",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.2.1",
+                "kind": "rule",
+                "name": "footer-rule-5",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 1
+                },
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                },
+                "snappedFrame": {
+                  "left": 210,
+                  "top": 978,
+                  "width": 1564,
+                  "height": 1
+                },
+                "children": [],
+                "weight": 1,
+                "element": {
+                  "aid": "sh/gvy90je9",
+                  "id": "21",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.2.2",
+                "kind": "text",
+                "name": "footer-page-5",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 56
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 1788,
+                  "top": 978,
+                  "width": 56,
+                  "height": 28
+                },
+                "children": [],
+                "text": "5/7",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/ra5gbq1o",
+                  "id": "22",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 14,
+            "effectiveGap": 14,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "items": [
+              {
+                "path": "0.2.0",
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                }
+              },
+              {
+                "path": "0.2.1",
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                }
+              },
+              {
+                "path": "0.2.2",
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                }
+              }
+            ]
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 26,
+        "effectiveGap": 26,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 76,
+              "top": 186,
+              "width": 1768,
+              "height": 765.6
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

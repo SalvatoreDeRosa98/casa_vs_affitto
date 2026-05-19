@@ -1,0 +1,93 @@
+<h2>Che stile vuoi per il PDF?</h2>
+<p class="subtitle">Scegli la direzione visiva — poi raffiniamo i dettagli</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="minimal" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:#fff;border:1px solid #e0e0e0;border-radius:4px;padding:12px;font-family:Georgia,serif;min-height:220px">
+        <div style="border-bottom:2px solid #222;padding-bottom:8px;margin-bottom:10px">
+          <div style="font-size:13px;font-weight:bold;letter-spacing:2px;text-transform:uppercase;color:#222">città.</div>
+          <div style="font-size:9px;color:#888;margin-top:2px">Analisi Casa vs Affitto · Roma · 80 mq · 19/05/2026</div>
+        </div>
+        <div style="background:#f9f9f9;border-left:3px solid #222;padding:8px 10px;margin-bottom:10px">
+          <div style="font-size:10px;color:#444;font-weight:bold">Break-even</div>
+          <div style="font-size:18px;font-weight:bold;color:#222">12 anni</div>
+          <div style="font-size:8px;color:#666">Comprare conviene dopo 12 anni</div>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:8px">
+          <div style="border-bottom:1px solid #eee;padding:3px 0;color:#555"><span style="font-weight:bold">Città</span><br/>Roma</div>
+          <div style="border-bottom:1px solid #eee;padding:3px 0;color:#555"><span style="font-weight:bold">Superficie</span><br/>80 mq</div>
+          <div style="border-bottom:1px solid #eee;padding:3px 0;color:#555"><span style="font-weight:bold">Valore</span><br/>€ 320.000</div>
+          <div style="border-bottom:1px solid #eee;padding:3px 0;color:#555"><span style="font-weight:bold">Rata</span><br/>€ 1.050/mese</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Minimal / Editoriale</h3>
+      <p>Bianco, serif, accenti sottili. Stile magazine finanziario. Pulito, elegante, senza rumore visivo.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="modern" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:#fff;border:1px solid #e0e0e0;border-radius:4px;overflow:hidden;font-family:Helvetica,Arial,sans-serif;min-height:220px">
+        <div style="background:#1a1a2e;padding:12px 14px;color:#fff">
+          <div style="font-size:13px;font-weight:bold;letter-spacing:1px">città.</div>
+          <div style="font-size:9px;color:#aaa;margin-top:2px">Roma · 80 mq · 19/05/2026</div>
+        </div>
+        <div style="padding:10px 14px">
+          <div style="background:linear-gradient(135deg,#667eea,#764ba2);border-radius:6px;padding:10px;color:#fff;margin-bottom:10px">
+            <div style="font-size:8px;text-transform:uppercase;letter-spacing:1px;opacity:0.8">Break-even</div>
+            <div style="font-size:22px;font-weight:bold">12 anni</div>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:5px">
+            <div style="background:#f5f5f5;border-radius:4px;padding:6px;font-size:8px"><div style="color:#888;font-size:7px;text-transform:uppercase">Valore</div><div style="font-weight:bold;color:#1a1a2e">€ 320.000</div></div>
+            <div style="background:#f5f5f5;border-radius:4px;padding:6px;font-size:8px"><div style="color:#888;font-size:7px;text-transform:uppercase">Rata</div><div style="font-weight:bold;color:#1a1a2e">€ 1.050</div></div>
+            <div style="background:#f5f5f5;border-radius:4px;padding:6px;font-size:8px"><div style="color:#888;font-size:7px;text-transform:uppercase">Anticipo</div><div style="font-weight:bold;color:#1a1a2e">20%</div></div>
+            <div style="background:#f5f5f5;border-radius:4px;padding:6px;font-size:8px"><div style="color:#888;font-size:7px;text-transform:uppercase">Mutuo</div><div style="font-weight:bold;color:#1a1a2e">25 anni</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Dark Header + Card Grid</h3>
+      <p>Header scuro, hero colorato per il breakeven, dati in card. Stile app fintech moderna.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="professional" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:#fff;border:1px solid #e0e0e0;border-radius:4px;overflow:hidden;font-family:Helvetica,Arial,sans-serif;min-height:220px">
+        <div style="background:#C8A96E;padding:10px 14px;display:flex;justify-content:space-between;align-items:center">
+          <div style="color:#1a1a1a;font-weight:bold;font-size:13px;letter-spacing:1px">città.</div>
+          <div style="color:#1a1a1a;font-size:8px">Analisi Casa vs Affitto</div>
+        </div>
+        <div style="padding:10px 14px">
+          <div style="display:flex;gap:8px;margin-bottom:8px">
+            <div style="flex:1;background:#FBF7EE;border:1px solid #C8A96E;border-radius:4px;padding:8px;text-align:center">
+              <div style="font-size:7px;color:#8B7355;text-transform:uppercase;letter-spacing:1px">Break-even</div>
+              <div style="font-size:20px;font-weight:bold;color:#1a1a1a">12</div>
+              <div style="font-size:7px;color:#8B7355">anni</div>
+            </div>
+            <div style="flex:2;font-size:8px;color:#333;line-height:1.5;padding-top:4px">
+              Con questi parametri, acquistare diventa conveniente dopo <b>12 anni</b>. Patrimonio acquisto supera quello affitto nel 2038.
+            </div>
+          </div>
+          <div style="font-size:8px;border-collapse:collapse;width:100%">
+            <table style="width:100%;border-collapse:collapse;font-size:8px">
+              <tr style="background:#C8A96E;color:#fff"><td style="padding:3px 6px;font-weight:bold">Parametro</td><td style="padding:3px 6px;font-weight:bold">Valore</td><td style="padding:3px 6px;font-weight:bold">Parametro</td><td style="padding:3px 6px;font-weight:bold">Valore</td></tr>
+              <tr style="background:#FBF7EE"><td style="padding:2px 6px;color:#555">Città</td><td style="padding:2px 6px">Roma</td><td style="padding:2px 6px;color:#555">Tasso</td><td style="padding:2px 6px">3.5%</td></tr>
+              <tr><td style="padding:2px 6px;color:#555">Superficie</td><td style="padding:2px 6px">80 mq</td><td style="padding:2px 6px;color:#555">Anticipo</td><td style="padding:2px 6px">20%</td></tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Gold Accent + Strutturato</h3>
+      <p>Palette oro/crema del brand, tabelle a doppia colonna, testo descrittivo. Stile consulenza finanziaria premium.</p>
+    </div>
+  </div>
+
+</div>

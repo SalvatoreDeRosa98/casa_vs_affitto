@@ -1,0 +1,1320 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/1f35gu",
+    "id": "1f35gu",
+    "slide": 6,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "1",
+      "name": "verdict-dark",
+      "bbox": [
+        76,
+        76,
+        858,
+        928
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#111827"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "2",
+      "name": "verdict-label",
+      "bbox": [
+        122,
+        122,
+        766,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.0"
+      },
+      "geometry": "rect",
+      "text": "Verdetto onesto",
+      "textPreview": "Verdetto onesto",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Verdetto onesto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Verdetto onesto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Verdetto onesto",
+              "fontSize": 22,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "3",
+      "name": "verdict-main",
+      "bbox": [
+        122,
+        174,
+        766,
+        282
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.1"
+      },
+      "geometry": "rect",
+      "text": "Conviene comprare solo se resti almeno X anni.",
+      "textPreview": "Conviene comprare solo se resti almeno X anni.",
+      "resolvedFontSize": 78,
+      "resolvedTextStyle": {
+        "fontSize": 78,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Conviene comprare"
+          },
+          {
+            "index": 2,
+            "text": "solo se resti almeno X"
+          },
+          {
+            "index": 3,
+            "text": "anni."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Conviene comprare solo se resti almeno X anni.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Conviene comprare solo se resti almeno X anni.",
+              "fontSize": 78,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "4",
+      "name": "verdict-copy",
+      "bbox": [
+        122,
+        482,
+        766,
+        82
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.2"
+      },
+      "geometry": "rect",
+      "text": "Dove X non è il desiderio di comprare. È il punto in cui il patrimonio netto batte l'alternativa.",
+      "textPreview": "Dove X non è il desiderio di comprare. È il punto in cui il patrimonio netto batte l'alternativa.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dove X non è il desiderio di comprare. È il punto in cui il"
+          },
+          {
+            "index": 2,
+            "text": "patrimonio netto batte l'alternativa."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dove X non è il desiderio di comprare. È il punto in cui il patrimonio netto batte l'alternativa.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dove X non è il desiderio di comprare. È il punto in cui il patrimonio netto batte l'alternativa.",
+              "fontSize": 34,
+              "color": "#DDEBFA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "5",
+      "name": "verdict-side-title",
+      "bbox": [
+        986,
+        76,
+        858,
+        70
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0"
+      },
+      "geometry": "rect",
+      "text": "Le frasi giuste non sono assolute.",
+      "textPreview": "Le frasi giuste non sono assolute.",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "fontSize": 58,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Le frasi giuste non sono assolute."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Le frasi giuste non sono assolute.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Le frasi giuste non sono assolute.",
+              "fontSize": 58,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "6",
+      "name": "verdict-line-1",
+      "bbox": [
+        986,
+        172,
+        858,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1"
+      },
+      "geometry": "rect",
+      "text": "Affittare resta competitivo se investi il capitale.",
+      "textPreview": "Affittare resta competitivo se investi il capitale.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Affittare resta competitivo se investi il capitale."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Affittare resta competitivo se investi il capitale.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Affittare resta competitivo se investi il capitale.",
+              "fontSize": 34,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "7",
+      "name": "verdict-line-2",
+      "bbox": [
+        986,
+        238,
+        858,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2"
+      },
+      "geometry": "rect",
+      "text": "La rata è più bassa, ma l'anticipo pesa.",
+      "textPreview": "La rata è più bassa, ma l'anticipo pesa.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "La rata è più bassa, ma l'anticipo pesa."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "La rata è più bassa, ma l'anticipo pesa.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "La rata è più bassa, ma l'anticipo pesa.",
+              "fontSize": 34,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "8",
+      "name": "verdict-line-3",
+      "bbox": [
+        986,
+        306,
+        858,
+        42
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.3"
+      },
+      "geometry": "rect",
+      "text": "Il risultato è sensibile al rendimento alternativo.",
+      "textPreview": "Il risultato è sensibile al rendimento alternativo.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Il risultato è sensibile al rendimento alternativo."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Il risultato è sensibile al rendimento alternativo.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Il risultato è sensibile al rendimento alternativo.",
+              "fontSize": 34,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "9",
+      "name": "footer-brand-6",
+      "bbox": [
+        986,
+        372,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "10",
+      "name": "footer-rule-6",
+      "bbox": [
+        1120,
+        372,
+        654,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxs72x4n",
+      "id": "11",
+      "name": "footer-page-6",
+      "bbox": [
+        1788,
+        372,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.4.2"
+      },
+      "geometry": "rect",
+      "text": "6/7",
+      "textPreview": "6/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "6/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "row",
+        "name": "verdict-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 204,
+          "height": 152
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "panel",
+            "name": "verdict-dark",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 92,
+              "height": 92
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            },
+            "children": [
+              {
+                "path": "0.0.0",
+                "kind": "column",
+                "name": "verdict-dark-stack",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 212.8
+                },
+                "frame": {
+                  "left": 122,
+                  "top": 122,
+                  "width": 766,
+                  "height": 836
+                },
+                "children": [
+                  {
+                    "path": "0.0.0.0",
+                    "kind": "text",
+                    "name": "verdict-label",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 26.4
+                    },
+                    "frame": {
+                      "left": 122,
+                      "top": 122,
+                      "width": 766,
+                      "height": 26.4
+                    },
+                    "snappedFrame": {
+                      "left": 122,
+                      "top": 122,
+                      "width": 766,
+                      "height": 28
+                    },
+                    "children": [],
+                    "text": "Verdetto onesto",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/w7mp0bi9",
+                      "id": "2",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.0.1",
+                    "kind": "text",
+                    "name": "verdict-main",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 93.6
+                    },
+                    "frame": {
+                      "left": 122,
+                      "top": 174.4,
+                      "width": 766,
+                      "height": 280.8
+                    },
+                    "snappedFrame": {
+                      "left": 122,
+                      "top": 174,
+                      "width": 766,
+                      "height": 282
+                    },
+                    "children": [],
+                    "text": "Conviene comprare solo se resti almeno X anni.",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/psfil0rq",
+                      "id": "3",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.0.2",
+                    "kind": "text",
+                    "name": "verdict-copy",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 40.8
+                    },
+                    "frame": {
+                      "left": 122,
+                      "top": 481.2,
+                      "width": 766,
+                      "height": 81.6
+                    },
+                    "snappedFrame": {
+                      "left": 122,
+                      "top": 482,
+                      "width": 766,
+                      "height": 82
+                    },
+                    "children": [],
+                    "text": "Dove X non è il desiderio di comprare. È il punto in cui il patrimonio netto batte l'alternativa.",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/epkzupwb",
+                      "id": "4",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 26,
+                "effectiveGap": 26,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 122,
+                  "top": 122,
+                  "width": 766,
+                  "height": 836
+                },
+                "items": [
+                  {
+                    "path": "0.0.0.0",
+                    "frame": {
+                      "left": 122,
+                      "top": 122,
+                      "width": 766,
+                      "height": 26.4
+                    }
+                  },
+                  {
+                    "path": "0.0.0.1",
+                    "frame": {
+                      "left": 122,
+                      "top": 174.4,
+                      "width": 766,
+                      "height": 280.8
+                    }
+                  },
+                  {
+                    "path": "0.0.0.2",
+                    "frame": {
+                      "left": 122,
+                      "top": 481.2,
+                      "width": 766,
+                      "height": 81.6
+                    }
+                  }
+                ]
+              }
+            ],
+            "padding": {
+              "top": 46,
+              "right": 46,
+              "bottom": 46,
+              "left": 46
+            },
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 122,
+              "top": 122,
+              "width": 766,
+              "height": 836
+            },
+            "element": {
+              "aid": "sh/7mp0bi9s",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "column",
+            "name": "verdict-light",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 0,
+              "height": 322.4
+            },
+            "frame": {
+              "left": 986,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            },
+            "children": [
+              {
+                "path": "0.1.0",
+                "kind": "text",
+                "name": "verdict-side-title",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 69.6
+                },
+                "frame": {
+                  "left": 986,
+                  "top": 76,
+                  "width": 858,
+                  "height": 69.6
+                },
+                "snappedFrame": {
+                  "left": 986,
+                  "top": 76,
+                  "width": 858,
+                  "height": 70
+                },
+                "children": [],
+                "text": "Le frasi giuste non sono assolute.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/7adsji5s",
+                  "id": "5",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.1",
+                "kind": "text",
+                "name": "verdict-line-1",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 40.8
+                },
+                "frame": {
+                  "left": 986,
+                  "top": 171.6,
+                  "width": 858,
+                  "height": 40.8
+                },
+                "snappedFrame": {
+                  "left": 986,
+                  "top": 172,
+                  "width": 858,
+                  "height": 42
+                },
+                "children": [],
+                "text": "Affittare resta competitivo se investi il capitale.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/wval87ed",
+                  "id": "6",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.2",
+                "kind": "text",
+                "name": "verdict-line-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 40.8
+                },
+                "frame": {
+                  "left": 986,
+                  "top": 238.4,
+                  "width": 858,
+                  "height": 40.8
+                },
+                "snappedFrame": {
+                  "left": 986,
+                  "top": 238,
+                  "width": 858,
+                  "height": 42
+                },
+                "children": [],
+                "text": "La rata è più bassa, ma l'anticipo pesa.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/pg3ex0nu",
+                  "id": "7",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.3",
+                "kind": "text",
+                "name": "verdict-line-3",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 40.8
+                },
+                "frame": {
+                  "left": 986,
+                  "top": 305.2,
+                  "width": 858,
+                  "height": 40.8
+                },
+                "snappedFrame": {
+                  "left": 986,
+                  "top": 306,
+                  "width": 858,
+                  "height": 42
+                },
+                "children": [],
+                "text": "Il risultato è sensibile al rendimento alternativo.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/eloj2t83",
+                  "id": "8",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.4",
+                "kind": "row",
+                "name": "footer-6",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 204,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 986,
+                  "top": 372,
+                  "width": 858,
+                  "height": 26.4
+                },
+                "children": [
+                  {
+                    "path": "0.1.4.0",
+                    "kind": "text",
+                    "name": "footer-brand-6",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fixed",
+                        "value": 120
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 120,
+                      "height": 26.4
+                    },
+                    "frame": {
+                      "left": 986,
+                      "top": 372,
+                      "width": 120,
+                      "height": 26.4
+                    },
+                    "snappedFrame": {
+                      "left": 986,
+                      "top": 372,
+                      "width": 120,
+                      "height": 28
+                    },
+                    "children": [],
+                    "text": "citta.",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/36hcrmhk",
+                      "id": "9",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.4.1",
+                    "kind": "rule",
+                    "name": "footer-rule-6",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fixed",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 1
+                    },
+                    "frame": {
+                      "left": 1120,
+                      "top": 372,
+                      "width": 654,
+                      "height": 1
+                    },
+                    "snappedFrame": {
+                      "left": 1120,
+                      "top": 372,
+                      "width": 654,
+                      "height": 1
+                    },
+                    "children": [],
+                    "weight": 1,
+                    "element": {
+                      "aid": "sh/fil0rqd4",
+                      "id": "10",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.4.2",
+                    "kind": "text",
+                    "name": "footer-page-6",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fixed",
+                        "value": 56
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 56,
+                      "height": 26.4
+                    },
+                    "frame": {
+                      "left": 1788,
+                      "top": 372,
+                      "width": 56,
+                      "height": 26.4
+                    },
+                    "snappedFrame": {
+                      "left": 1788,
+                      "top": 372,
+                      "width": 56,
+                      "height": 28
+                    },
+                    "children": [],
+                    "text": "6/7",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/qxs72x4n",
+                      "id": "11",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 14,
+                "effectiveGap": 14,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 986,
+                  "top": 372,
+                  "width": 858,
+                  "height": 26.4
+                },
+                "items": [
+                  {
+                    "path": "0.1.4.0",
+                    "frame": {
+                      "left": 986,
+                      "top": 372,
+                      "width": 120,
+                      "height": 26.4
+                    }
+                  },
+                  {
+                    "path": "0.1.4.1",
+                    "frame": {
+                      "left": 1120,
+                      "top": 372,
+                      "width": 654,
+                      "height": 1
+                    }
+                  },
+                  {
+                    "path": "0.1.4.2",
+                    "frame": {
+                      "left": 1788,
+                      "top": 372,
+                      "width": 56,
+                      "height": 26.4
+                    }
+                  }
+                ]
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 26,
+            "effectiveGap": 26,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 986,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            },
+            "items": [
+              {
+                "path": "0.1.0",
+                "frame": {
+                  "left": 986,
+                  "top": 76,
+                  "width": 858,
+                  "height": 69.6
+                }
+              },
+              {
+                "path": "0.1.1",
+                "frame": {
+                  "left": 986,
+                  "top": 171.6,
+                  "width": 858,
+                  "height": 40.8
+                }
+              },
+              {
+                "path": "0.1.2",
+                "frame": {
+                  "left": 986,
+                  "top": 238.4,
+                  "width": 858,
+                  "height": 40.8
+                }
+              },
+              {
+                "path": "0.1.3",
+                "frame": {
+                  "left": 986,
+                  "top": 305.2,
+                  "width": 858,
+                  "height": 40.8
+                }
+              },
+              {
+                "path": "0.1.4",
+                "frame": {
+                  "left": 986,
+                  "top": 372,
+                  "width": 858,
+                  "height": 26.4
+                }
+              }
+            ]
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 52,
+        "effectiveGap": 52,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 986,
+              "top": 76,
+              "width": 858,
+              "height": 928
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

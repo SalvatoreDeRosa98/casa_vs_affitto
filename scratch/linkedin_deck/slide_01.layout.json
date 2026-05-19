@@ -1,0 +1,2210 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/1nwo0k",
+    "id": "1nwo0k",
+    "slide": 1,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "1",
+      "name": "cover-chip",
+      "bbox": [
+        76,
+        76,
+        164.75,
+        37.6
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "2",
+      "name": "cover-chip-text",
+      "bbox": [
+        94,
+        84,
+        128,
+        22
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.0.0"
+      },
+      "geometry": "rect",
+      "text": "CASA VS AFFITTO",
+      "textPreview": "CASA VS AFFITTO",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CASA VS"
+          },
+          {
+            "index": 2,
+            "text": "AFFITTO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CASA VS AFFITTO",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CASA VS AFFITTO",
+              "fontSize": 18,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "3",
+      "name": "cover-chip-2",
+      "bbox": [
+        252.75,
+        76,
+        196.33,
+        59.2
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.1"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFF3D6"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "4",
+      "name": "cover-chip-2-text",
+      "bbox": [
+        270,
+        84,
+        160,
+        44
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0.1.0"
+      },
+      "geometry": "rect",
+      "text": "MODELLO PRUDENTE",
+      "textPreview": "MODELLO PRUDENTE",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MODELLO"
+          },
+          {
+            "index": 2,
+            "text": "PRUDENTE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MODELLO PRUDENTE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "MODELLO PRUDENTE",
+              "fontSize": 18,
+              "color": "#F5A623",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "5",
+      "name": "cover-title-1",
+      "bbox": [
+        76,
+        160,
+        928,
+        116
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.1.0"
+      },
+      "geometry": "rect",
+      "text": "Comprare casa",
+      "textPreview": "Comprare casa",
+      "resolvedFontSize": 96,
+      "resolvedTextStyle": {
+        "fontSize": 96,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Comprare casa"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Comprare casa",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Comprare casa",
+              "fontSize": 96,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "6",
+      "name": "cover-title-2",
+      "bbox": [
+        76,
+        282,
+        928,
+        116
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.1.1"
+      },
+      "geometry": "rect",
+      "text": "conviene davvero?",
+      "textPreview": "conviene davvero?",
+      "resolvedFontSize": 96,
+      "resolvedTextStyle": {
+        "fontSize": 96,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "conviene davvero?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "conviene davvero?",
+          "runs": [
+            {
+              "index": 1,
+              "text": "conviene davvero?",
+              "fontSize": 96,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "7",
+      "name": "cover-subtitle",
+      "bbox": [
+        76,
+        422,
+        762,
+        82
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.2"
+      },
+      "geometry": "rect",
+      "text": "Spoiler: la rata bassa non basta. Devi guardare anticipo, capitale investito e costi di uscita.",
+      "textPreview": "Spoiler: la rata bassa non basta. Devi guardare anticipo, capitale investito e costi di uscita.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Spoiler: la rata bassa non basta. Devi guardare anticipo,"
+          },
+          {
+            "index": 2,
+            "text": "capitale investito e costi di uscita."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Spoiler: la rata bassa non basta. Devi guardare anticipo, capitale investito e costi di uscita.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Spoiler: la rata bassa non basta. Devi guardare anticipo, capitale investito e costi di uscita.",
+              "fontSize": 34,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "8",
+      "name": "cover-left-rule",
+      "bbox": [
+        76,
+        528,
+        250,
+        8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.3"
+      },
+      "geometry": "rect",
+      "fillColor": "#111827",
+      "lineColor": "#111827",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "9",
+      "name": "footer-brand-1",
+      "bbox": [
+        76,
+        560,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.4.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "10",
+      "name": "footer-rule-1",
+      "bbox": [
+        210,
+        560,
+        724,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.4.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "11",
+      "name": "footer-page-1",
+      "bbox": [
+        948,
+        560,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.4.2"
+      },
+      "geometry": "rect",
+      "text": "1/7",
+      "textPreview": "1/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "1/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "12",
+      "name": "cover-visual",
+      "bbox": [
+        1052.8,
+        76,
+        791.2,
+        928
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "13",
+      "name": "cover-visual-label",
+      "bbox": [
+        1092,
+        116,
+        712,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0"
+      },
+      "geometry": "rect",
+      "text": "BREAK-EVEN",
+      "textPreview": "BREAK-EVEN",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BREAK-EVEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BREAK-EVEN",
+          "runs": [
+            {
+              "index": 1,
+              "text": "BREAK-EVEN",
+              "fontSize": 24,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "14",
+      "name": "cover-visual-title",
+      "bbox": [
+        1092,
+        170,
+        712,
+        76
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.1"
+      },
+      "geometry": "rect",
+      "text": "non è una data magica",
+      "textPreview": "non è una data magica",
+      "resolvedFontSize": 62,
+      "resolvedTextStyle": {
+        "fontSize": 62,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "non è una data magica"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "non è una data magica",
+          "runs": [
+            {
+              "index": 1,
+              "text": "non è una data magica",
+              "fontSize": 62,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "15",
+      "name": "cover-visual-rule",
+      "bbox": [
+        1092,
+        272,
+        712,
+        8
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.2"
+      },
+      "geometry": "rect",
+      "fillColor": "#0A66C2",
+      "lineColor": "#0A66C2",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "16",
+      "name": "cover-stat-value",
+      "bbox": [
+        1092,
+        306,
+        712,
+        104
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.3.0"
+      },
+      "geometry": "rect",
+      "text": "X anni",
+      "textPreview": "X anni",
+      "resolvedFontSize": 86,
+      "resolvedTextStyle": {
+        "fontSize": 86,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "X anni"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "X anni",
+          "runs": [
+            {
+              "index": 1,
+              "text": "X anni",
+              "fontSize": 86,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "17",
+      "name": "cover-stat-caption",
+      "bbox": [
+        1092,
+        416,
+        712,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.3.1"
+      },
+      "geometry": "rect",
+      "text": "solo se il patrimonio batte affitto + investimento",
+      "textPreview": "solo se il patrimonio batte affitto + investimento",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "solo se il patrimonio batte affitto + investimento"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "solo se il patrimonio batte affitto + investimento",
+          "runs": [
+            {
+              "index": 1,
+              "text": "solo se il patrimonio batte affitto + investimento",
+              "fontSize": 24,
+              "color": "#61758A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa9w3m9",
+      "id": "18",
+      "name": "cover-stat-2-value",
+      "bbox": [
+        1092,
+        472,
+        712,
+        104
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.4.0"
+      },
+      "geometry": "rect",
+      "text": "X anni",
+      "textPreview": "X anni",
+      "resolvedFontSize": 86,
+      "resolvedTextStyle": {
+        "fontSize": 86,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "X anni"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "X anni",
+          "runs": [
+            {
+              "index": 1,
+              "text": "X anni",
+              "fontSize": 86,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1032lszq",
+      "id": "19",
+      "name": "cover-stat-2-caption",
+      "bbox": [
+        1092,
+        582,
+        712,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.4.1"
+      },
+      "geometry": "rect",
+      "text": "solo se vendendo recuperi davvero i soldi",
+      "textPreview": "solo se vendendo recuperi davvero i soldi",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "solo se vendendo recuperi davvero i soldi"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "solo se vendendo recuperi davvero i soldi",
+          "runs": [
+            {
+              "index": 1,
+              "text": "solo se vendendo recuperi davvero i soldi",
+              "fontSize": 24,
+              "color": "#61758A"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "row",
+        "name": "cover-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 200,
+          "height": 152
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "column",
+            "name": "cover-copy",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1.08
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 761.9,
+              "height": 488
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 928.8,
+              "height": 928
+            },
+            "children": [
+              {
+                "path": "0.0.0",
+                "kind": "row",
+                "name": "cover-chips",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 373.08,
+                  "height": 37.6
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 928.8,
+                  "height": 59.2
+                },
+                "children": [
+                  {
+                    "path": "0.0.0.0",
+                    "kind": "panel",
+                    "name": "cover-chip",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "hug"
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 164.75,
+                      "height": 37.6
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 76,
+                      "width": 164.75,
+                      "height": 37.6
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 76,
+                      "width": 164.75,
+                      "height": 37.6
+                    },
+                    "children": [
+                      {
+                        "path": "0.0.0.0.0",
+                        "kind": "text",
+                        "name": "cover-chip-text",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "hug"
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 128.75,
+                          "height": 21.6
+                        },
+                        "frame": {
+                          "left": 94,
+                          "top": 84,
+                          "width": 128.75,
+                          "height": 21.6
+                        },
+                        "snappedFrame": {
+                          "left": 94,
+                          "top": 84,
+                          "width": 128,
+                          "height": 22
+                        },
+                        "children": [],
+                        "text": "CASA VS AFFITTO",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/p4r65wju",
+                          "id": "2",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 8,
+                      "right": 18,
+                      "bottom": 8,
+                      "left": 18
+                    },
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 94,
+                      "top": 84,
+                      "width": 128.75,
+                      "height": 21.6
+                    },
+                    "element": {
+                      "aid": "sh/ed8v6psf",
+                      "id": "1",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.0.1",
+                    "kind": "panel",
+                    "name": "cover-chip-2",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "hug"
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 196.33,
+                      "height": 37.6
+                    },
+                    "frame": {
+                      "left": 252.75,
+                      "top": 76,
+                      "width": 196.33,
+                      "height": 59.2
+                    },
+                    "snappedFrame": {
+                      "left": 252.75,
+                      "top": 76,
+                      "width": 196.33,
+                      "height": 59.2
+                    },
+                    "children": [
+                      {
+                        "path": "0.0.0.1.0",
+                        "kind": "text",
+                        "name": "cover-chip-2-text",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "hug"
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 160.33,
+                          "height": 21.6
+                        },
+                        "frame": {
+                          "left": 270.75,
+                          "top": 84,
+                          "width": 160.33,
+                          "height": 43.2
+                        },
+                        "snappedFrame": {
+                          "left": 270,
+                          "top": 84,
+                          "width": 160,
+                          "height": 44
+                        },
+                        "children": [],
+                        "text": "MODELLO PRUDENTE",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/7qpg3ex0",
+                          "id": "4",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 8,
+                      "right": 18,
+                      "bottom": 8,
+                      "left": 18
+                    },
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 270.75,
+                      "top": 84,
+                      "width": 160.33,
+                      "height": 43.2
+                    },
+                    "element": {
+                      "aid": "sh/wjudg7ad",
+                      "id": "3",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 12,
+                "effectiveGap": 12,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 928.8,
+                  "height": 59.2
+                },
+                "items": [
+                  {
+                    "path": "0.0.0.0",
+                    "frame": {
+                      "left": 76,
+                      "top": 76,
+                      "width": 164.75,
+                      "height": 37.6
+                    }
+                  },
+                  {
+                    "path": "0.0.0.1",
+                    "frame": {
+                      "left": 252.75,
+                      "top": 76,
+                      "width": 196.33,
+                      "height": 59.2
+                    }
+                  }
+                ]
+              },
+              {
+                "path": "0.0.1",
+                "kind": "column",
+                "name": "cover-title-stack",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 238.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 159.2,
+                  "width": 928.8,
+                  "height": 238.4
+                },
+                "children": [
+                  {
+                    "path": "0.0.1.0",
+                    "kind": "text",
+                    "name": "cover-title-1",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 115.2
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 159.2,
+                      "width": 928.8,
+                      "height": 115.2
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 160,
+                      "width": 928,
+                      "height": 116
+                    },
+                    "children": [],
+                    "text": "Comprare casa",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/i5sneloj",
+                      "id": "5",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.1.1",
+                    "kind": "text",
+                    "name": "cover-title-2",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 115.2
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 282.4,
+                      "width": 928.8,
+                      "height": 115.2
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 282,
+                      "width": 928,
+                      "height": 116
+                    },
+                    "children": [],
+                    "text": "conviene davvero?",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/pwb2hwfy",
+                      "id": "6",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 8,
+                "effectiveGap": 8,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 76,
+                  "top": 159.2,
+                  "width": 928.8,
+                  "height": 238.4
+                },
+                "items": [
+                  {
+                    "path": "0.0.1.0",
+                    "frame": {
+                      "left": 76,
+                      "top": 159.2,
+                      "width": 928.8,
+                      "height": 115.2
+                    }
+                  },
+                  {
+                    "path": "0.0.1.1",
+                    "frame": {
+                      "left": 76,
+                      "top": 282.4,
+                      "width": 928.8,
+                      "height": 115.2
+                    }
+                  }
+                ]
+              },
+              {
+                "path": "0.0.2",
+                "kind": "text",
+                "name": "cover-subtitle",
+                "requestedSize": {
+                  "width": {
+                    "mode": "wrap",
+                    "max": 790
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 761.9,
+                  "height": 81.6
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 421.6,
+                  "width": 761.9,
+                  "height": 81.6
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 422,
+                  "width": 762,
+                  "height": 82
+                },
+                "children": [],
+                "text": "Spoiler: la rata bassa non basta. Devi guardare anticipo, capitale investito e costi di uscita.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/0bi9s36h",
+                  "id": "7",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.0.3",
+                "kind": "rule",
+                "name": "cover-left-rule",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 250
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 8
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 250,
+                  "height": 8
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 527.2,
+                  "width": 250,
+                  "height": 8
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 528,
+                  "width": 250,
+                  "height": 8
+                },
+                "children": [],
+                "weight": 8,
+                "element": {
+                  "aid": "sh/7ed8bat4",
+                  "id": "8",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.0.4",
+                "kind": "row",
+                "name": "footer-1",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 204,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 559.2,
+                  "width": 928.8,
+                  "height": 26.4
+                },
+                "children": [
+                  {
+                    "path": "0.0.4.0",
+                    "kind": "text",
+                    "name": "footer-brand-1",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fixed",
+                        "value": 120
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 120,
+                      "height": 26.4
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 559.2,
+                      "width": 120,
+                      "height": 26.4
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 560,
+                      "width": 120,
+                      "height": 28
+                    },
+                    "children": [],
+                    "text": "citta.",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/itgfmlkj",
+                      "id": "9",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.4.1",
+                    "kind": "rule",
+                    "name": "footer-rule-1",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fixed",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 1
+                    },
+                    "frame": {
+                      "left": 210,
+                      "top": 559.2,
+                      "width": 724.8,
+                      "height": 1
+                    },
+                    "snappedFrame": {
+                      "left": 210,
+                      "top": 560,
+                      "width": 724,
+                      "height": 1
+                    },
+                    "children": [],
+                    "weight": 1,
+                    "element": {
+                      "aid": "sh/cvixczed",
+                      "id": "10",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.0.4.2",
+                    "kind": "text",
+                    "name": "footer-page-1",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fixed",
+                        "value": 56
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 56,
+                      "height": 26.4
+                    },
+                    "frame": {
+                      "left": 948.8,
+                      "top": 559.2,
+                      "width": 56,
+                      "height": 26.4
+                    },
+                    "snappedFrame": {
+                      "left": 948,
+                      "top": 560,
+                      "width": 56,
+                      "height": 28
+                    },
+                    "children": [],
+                    "text": "1/7",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/5gbq1ory",
+                      "id": "11",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 14,
+                "effectiveGap": 14,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 76,
+                  "top": 559.2,
+                  "width": 928.8,
+                  "height": 26.4
+                },
+                "items": [
+                  {
+                    "path": "0.0.4.0",
+                    "frame": {
+                      "left": 76,
+                      "top": 559.2,
+                      "width": 120,
+                      "height": 26.4
+                    }
+                  },
+                  {
+                    "path": "0.0.4.1",
+                    "frame": {
+                      "left": 210,
+                      "top": 559.2,
+                      "width": 724.8,
+                      "height": 1
+                    }
+                  },
+                  {
+                    "path": "0.0.4.2",
+                    "frame": {
+                      "left": 948.8,
+                      "top": 559.2,
+                      "width": 56,
+                      "height": 26.4
+                    }
+                  }
+                ]
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 24,
+            "effectiveGap": 24,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 928.8,
+              "height": 928
+            },
+            "items": [
+              {
+                "path": "0.0.0",
+                "frame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 928.8,
+                  "height": 59.2
+                }
+              },
+              {
+                "path": "0.0.1",
+                "frame": {
+                  "left": 76,
+                  "top": 159.2,
+                  "width": 928.8,
+                  "height": 238.4
+                }
+              },
+              {
+                "path": "0.0.2",
+                "frame": {
+                  "left": 76,
+                  "top": 421.6,
+                  "width": 761.9,
+                  "height": 81.6
+                }
+              },
+              {
+                "path": "0.0.3",
+                "frame": {
+                  "left": 76,
+                  "top": 527.2,
+                  "width": 250,
+                  "height": 8
+                }
+              },
+              {
+                "path": "0.0.4",
+                "frame": {
+                  "left": 76,
+                  "top": 559.2,
+                  "width": 928.8,
+                  "height": 26.4
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.1",
+            "kind": "panel",
+            "name": "cover-visual",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 0.92
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 0,
+              "height": 0
+            },
+            "frame": {
+              "left": 1052.8,
+              "top": 76,
+              "width": 791.2,
+              "height": 928
+            },
+            "snappedFrame": {
+              "left": 1052.8,
+              "top": 76,
+              "width": 791.2,
+              "height": 928
+            },
+            "children": [
+              {
+                "path": "0.1.0",
+                "kind": "column",
+                "name": "cover-visual-stack",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 80,
+                  "height": 575.2
+                },
+                "frame": {
+                  "left": 1052.8,
+                  "top": 76,
+                  "width": 791.2,
+                  "height": 928
+                },
+                "children": [
+                  {
+                    "path": "0.1.0.0",
+                    "kind": "text",
+                    "name": "cover-visual-label",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 28.8
+                    },
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 116,
+                      "width": 711.2,
+                      "height": 28.8
+                    },
+                    "snappedFrame": {
+                      "left": 1092,
+                      "top": 116,
+                      "width": 712,
+                      "height": 30
+                    },
+                    "children": [],
+                    "text": "BREAK-EVEN",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/nap4r65w",
+                      "id": "13",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.0.1",
+                    "kind": "text",
+                    "name": "cover-visual-title",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 74.4
+                    },
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 170.8,
+                      "width": 711.2,
+                      "height": 74.4
+                    },
+                    "snappedFrame": {
+                      "left": 1092,
+                      "top": 170,
+                      "width": 712,
+                      "height": 76
+                    },
+                    "children": [],
+                    "text": "non è una data magica",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/cj6tovah",
+                      "id": "14",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.0.2",
+                    "kind": "rule",
+                    "name": "cover-visual-rule",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fixed",
+                        "value": 8
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 8
+                    },
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 271.2,
+                      "width": 711.2,
+                      "height": 8
+                    },
+                    "snappedFrame": {
+                      "left": 1092,
+                      "top": 272,
+                      "width": 712,
+                      "height": 8
+                    },
+                    "children": [],
+                    "weight": 8,
+                    "element": {
+                      "aid": "sh/54zidony",
+                      "id": "15",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.0.3",
+                    "kind": "column",
+                    "name": "cover-stat",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 140
+                    },
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 305.2,
+                      "width": 711.2,
+                      "height": 140
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.0.3.0",
+                        "kind": "text",
+                        "name": "cover-stat-value",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 103.2
+                        },
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 305.2,
+                          "width": 711.2,
+                          "height": 103.2
+                        },
+                        "snappedFrame": {
+                          "left": 1092,
+                          "top": 306,
+                          "width": 712,
+                          "height": 104
+                        },
+                        "children": [],
+                        "text": "X anni",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/udg7adsj",
+                          "id": "16",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.0.3.1",
+                        "kind": "text",
+                        "name": "cover-stat-caption",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 28.8
+                        },
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 416.4,
+                          "width": 711.2,
+                          "height": 28.8
+                        },
+                        "snappedFrame": {
+                          "left": 1092,
+                          "top": 416,
+                          "width": 712,
+                          "height": 30
+                        },
+                        "children": [],
+                        "text": "solo se il patrimonio batte affitto + investimento",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/nyd0z610",
+                          "id": "17",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 8,
+                    "effectiveGap": 8,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 1092.8,
+                      "top": 305.2,
+                      "width": 711.2,
+                      "height": 140
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.0.3.0",
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 305.2,
+                          "width": 711.2,
+                          "height": 103.2
+                        }
+                      },
+                      {
+                        "path": "0.1.0.3.1",
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 416.4,
+                          "width": 711.2,
+                          "height": 28.8
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "path": "0.1.0.4",
+                    "kind": "column",
+                    "name": "cover-stat-2",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 140
+                    },
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 471.2,
+                      "width": 711.2,
+                      "height": 140
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.0.4.0",
+                        "kind": "text",
+                        "name": "cover-stat-2-value",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 103.2
+                        },
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 471.2,
+                          "width": 711.2,
+                          "height": 103.2
+                        },
+                        "snappedFrame": {
+                          "left": 1092,
+                          "top": 472,
+                          "width": 712,
+                          "height": 104
+                        },
+                        "children": [],
+                        "text": "X anni",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/cfa9w3m9",
+                          "id": "18",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.0.4.1",
+                        "kind": "text",
+                        "name": "cover-stat-2-caption",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 28.8
+                        },
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 582.4,
+                          "width": 711.2,
+                          "height": 28.8
+                        },
+                        "snappedFrame": {
+                          "left": 1092,
+                          "top": 582,
+                          "width": 712,
+                          "height": 30
+                        },
+                        "children": [],
+                        "text": "solo se vendendo recuperi davvero i soldi",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/1032lszq",
+                          "id": "19",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 8,
+                    "effectiveGap": 8,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 1092.8,
+                      "top": 471.2,
+                      "width": 711.2,
+                      "height": 140
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.0.4.0",
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 471.2,
+                          "width": 711.2,
+                          "height": 103.2
+                        }
+                      },
+                      {
+                        "path": "0.1.0.4.1",
+                        "frame": {
+                          "left": 1092.8,
+                          "top": 582.4,
+                          "width": 711.2,
+                          "height": 28.8
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 40,
+                  "right": 40,
+                  "bottom": 40,
+                  "left": 40
+                },
+                "gap": 26,
+                "effectiveGap": 26,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 1092.8,
+                  "top": 116,
+                  "width": 711.2,
+                  "height": 848
+                },
+                "items": [
+                  {
+                    "path": "0.1.0.0",
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 116,
+                      "width": 711.2,
+                      "height": 28.8
+                    }
+                  },
+                  {
+                    "path": "0.1.0.1",
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 170.8,
+                      "width": 711.2,
+                      "height": 74.4
+                    }
+                  },
+                  {
+                    "path": "0.1.0.2",
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 271.2,
+                      "width": 711.2,
+                      "height": 8
+                    }
+                  },
+                  {
+                    "path": "0.1.0.3",
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 305.2,
+                      "width": 711.2,
+                      "height": 140
+                    }
+                  },
+                  {
+                    "path": "0.1.0.4",
+                    "frame": {
+                      "left": 1092.8,
+                      "top": 471.2,
+                      "width": 711.2,
+                      "height": 140
+                    }
+                  }
+                ]
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 1052.8,
+              "top": 76,
+              "width": 791.2,
+              "height": 928
+            },
+            "element": {
+              "aid": "sh/upwb2hwf",
+              "id": "12",
+              "kind": "shape"
+            }
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 48,
+        "effectiveGap": 48,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 928.8,
+              "height": 928
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 1052.8,
+              "top": 76,
+              "width": 791.2,
+              "height": 928
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

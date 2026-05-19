@@ -1,0 +1,1561 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/9kjcdi",
+    "id": "9kjcdi",
+    "slide": 4,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "1",
+      "name": "caserta-title",
+      "bbox": [
+        76,
+        76,
+        1768,
+        84
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "Caso reale: Caserta, aprile 2026.",
+      "textPreview": "Caso reale: Caserta, aprile 2026.",
+      "resolvedFontSize": 70,
+      "resolvedTextStyle": {
+        "fontSize": 70,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Caso reale: Caserta, aprile 2026."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Caso reale: Caserta, aprile 2026.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Caso reale: Caserta, aprile 2026.",
+              "fontSize": 70,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "2",
+      "name": "caserta-price-value",
+      "bbox": [
+        76,
+        190,
+        572,
+        104
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0"
+      },
+      "geometry": "rect",
+      "text": "1.751",
+      "textPreview": "1.751",
+      "resolvedFontSize": 86,
+      "resolvedTextStyle": {
+        "fontSize": 86,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1.751"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1.751",
+          "runs": [
+            {
+              "index": 1,
+              "text": "1.751",
+              "fontSize": 86,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmhk3q5",
+      "id": "3",
+      "name": "caserta-price-caption",
+      "bbox": [
+        76,
+        302,
+        572,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.1"
+      },
+      "geometry": "rect",
+      "text": "euro/mq vendita residenziale",
+      "textPreview": "euro/mq vendita residenziale",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "euro/mq vendita residenziale"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "euro/mq vendita residenziale",
+          "runs": [
+            {
+              "index": 1,
+              "text": "euro/mq vendita residenziale",
+              "fontSize": 24,
+              "color": "#61758A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "4",
+      "name": "caserta-rent-value",
+      "bbox": [
+        674,
+        190,
+        572,
+        104
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0"
+      },
+      "geometry": "rect",
+      "text": "8,92",
+      "textPreview": "8,92",
+      "resolvedFontSize": 86,
+      "resolvedTextStyle": {
+        "fontSize": 86,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "8,92"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "8,92",
+          "runs": [
+            {
+              "index": 1,
+              "text": "8,92",
+              "fontSize": 86,
+              "color": "#16803C",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "5",
+      "name": "caserta-rent-caption",
+      "bbox": [
+        674,
+        302,
+        572,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.1"
+      },
+      "geometry": "rect",
+      "text": "euro/mq/mese affitto",
+      "textPreview": "euro/mq/mese affitto",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "euro/mq/mese affitto"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "euro/mq/mese affitto",
+          "runs": [
+            {
+              "index": 1,
+              "text": "euro/mq/mese affitto",
+              "fontSize": 24,
+              "color": "#61758A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "6",
+      "name": "caserta-size-value",
+      "bbox": [
+        1272,
+        190,
+        572,
+        104
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2.0"
+      },
+      "geometry": "rect",
+      "text": "100 mq",
+      "textPreview": "100 mq",
+      "resolvedFontSize": 86,
+      "resolvedTextStyle": {
+        "fontSize": 86,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "100 mq"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "100 mq",
+          "runs": [
+            {
+              "index": 1,
+              "text": "100 mq",
+              "fontSize": 86,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "7",
+      "name": "caserta-size-caption",
+      "bbox": [
+        1272,
+        302,
+        572,
+        30
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.2.1"
+      },
+      "geometry": "rect",
+      "text": "casa: 175.100 euro | affitto: 892 euro/mese",
+      "textPreview": "casa: 175.100 euro | affitto: 892 euro/mese",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "casa: 175.100 euro | affitto: 892 euro/mese"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "casa: 175.100 euro | affitto: 892 euro/mese",
+          "runs": [
+            {
+              "index": 1,
+              "text": "casa: 175.100 euro | affitto: 892 euro/mese",
+              "fontSize": 24,
+              "color": "#61758A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "8",
+      "name": "caserta-note",
+      "bbox": [
+        76,
+        873.2,
+        1768,
+        74.4
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#EAF3FF"
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "9",
+      "name": "caserta-note-text",
+      "bbox": [
+        102,
+        892,
+        1716,
+        40
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.0"
+      },
+      "geometry": "rect",
+      "text": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?",
+      "textPreview": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "fontSize": 32,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?",
+          "runs": [
+            {
+              "index": 1,
+              "text": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?",
+              "fontSize": 32,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "10",
+      "name": "footer-brand-4",
+      "bbox": [
+        76,
+        978,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "11",
+      "name": "footer-rule-4",
+      "bbox": [
+        210,
+        978,
+        1564,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "12",
+      "name": "footer-page-4",
+      "bbox": [
+        1788,
+        978,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.2"
+      },
+      "geometry": "rect",
+      "text": "4/7",
+      "textPreview": "4/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "4/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "column",
+        "name": "caserta-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 152,
+          "height": 426.8
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "caserta-title",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 0,
+              "height": 84
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            },
+            "children": [],
+            "text": "Caso reale: Caserta, aprile 2026.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/ulwval87",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "grid",
+            "name": "caserta-grid",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 52,
+              "height": 0
+            },
+            "frame": {
+              "left": 76,
+              "top": 190,
+              "width": 1768,
+              "height": 653.2
+            },
+            "children": [
+              {
+                "path": "0.1.0",
+                "kind": "column",
+                "name": "caserta-price",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 140
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "children": [
+                  {
+                    "path": "0.1.0.0",
+                    "kind": "text",
+                    "name": "caserta-price-value",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 103.2
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 190,
+                      "width": 572,
+                      "height": 104
+                    },
+                    "children": [],
+                    "text": "1.751",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/1cfa9w3m",
+                      "id": "2",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.0.1",
+                    "kind": "text",
+                    "name": "caserta-price-caption",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 28.8
+                    },
+                    "frame": {
+                      "left": 76,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    },
+                    "snappedFrame": {
+                      "left": 76,
+                      "top": 302,
+                      "width": 572,
+                      "height": 30
+                    },
+                    "children": [],
+                    "text": "euro/mq vendita residenziale",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/crmhk3q5",
+                      "id": "3",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 8,
+                "effectiveGap": 8,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 76,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "items": [
+                  {
+                    "path": "0.1.0.0",
+                    "frame": {
+                      "left": 76,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    }
+                  },
+                  {
+                    "path": "0.1.0.1",
+                    "frame": {
+                      "left": 76,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    }
+                  }
+                ]
+              },
+              {
+                "path": "0.1.1",
+                "kind": "column",
+                "name": "caserta-rent",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 140
+                },
+                "frame": {
+                  "left": 674,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "children": [
+                  {
+                    "path": "0.1.1.0",
+                    "kind": "text",
+                    "name": "caserta-rent-value",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 103.2
+                    },
+                    "frame": {
+                      "left": 674,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    },
+                    "snappedFrame": {
+                      "left": 674,
+                      "top": 190,
+                      "width": 572,
+                      "height": 104
+                    },
+                    "children": [],
+                    "text": "8,92",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/ji5snelo",
+                      "id": "4",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.1.1",
+                    "kind": "text",
+                    "name": "caserta-rent-caption",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 28.8
+                    },
+                    "frame": {
+                      "left": 674,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    },
+                    "snappedFrame": {
+                      "left": 674,
+                      "top": 302,
+                      "width": 572,
+                      "height": 30
+                    },
+                    "children": [],
+                    "text": "euro/mq/mese affitto",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/uxc3ylc7",
+                      "id": "5",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 8,
+                "effectiveGap": 8,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 674,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "items": [
+                  {
+                    "path": "0.1.1.0",
+                    "frame": {
+                      "left": 674,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    }
+                  },
+                  {
+                    "path": "0.1.1.1",
+                    "frame": {
+                      "left": 674,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    }
+                  }
+                ]
+              },
+              {
+                "path": "0.1.2",
+                "kind": "column",
+                "name": "caserta-size",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 140
+                },
+                "frame": {
+                  "left": 1272,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "children": [
+                  {
+                    "path": "0.1.2.0",
+                    "kind": "text",
+                    "name": "caserta-size-value",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 103.2
+                    },
+                    "frame": {
+                      "left": 1272,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    },
+                    "snappedFrame": {
+                      "left": 1272,
+                      "top": 190,
+                      "width": 572,
+                      "height": 104
+                    },
+                    "children": [],
+                    "text": "100 mq",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/1kre1w7m",
+                      "id": "6",
+                      "kind": "shape"
+                    }
+                  },
+                  {
+                    "path": "0.1.2.1",
+                    "kind": "text",
+                    "name": "caserta-size-caption",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "hug"
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 28.8
+                    },
+                    "frame": {
+                      "left": 1272,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    },
+                    "snappedFrame": {
+                      "left": 1272,
+                      "top": 302,
+                      "width": 572,
+                      "height": 30
+                    },
+                    "children": [],
+                    "text": "casa: 175.100 euro | affitto: 892 euro/mese",
+                    "transform": "none",
+                    "element": {
+                      "aid": "sh/c3ylc7u5",
+                      "id": "7",
+                      "kind": "shape"
+                    }
+                  }
+                ],
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "gap": 8,
+                "effectiveGap": 8,
+                "justifyOffset": 0,
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 1272,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                },
+                "items": [
+                  {
+                    "path": "0.1.2.0",
+                    "frame": {
+                      "left": 1272,
+                      "top": 190,
+                      "width": 572,
+                      "height": 103.2
+                    }
+                  },
+                  {
+                    "path": "0.1.2.1",
+                    "frame": {
+                      "left": 1272,
+                      "top": 301.2,
+                      "width": 572,
+                      "height": 28.8
+                    }
+                  }
+                ]
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "columnGap": 26,
+            "rowGap": 0,
+            "alignItems": "stretch",
+            "justifyItems": "stretch",
+            "contentFrame": {
+              "left": 76,
+              "top": 190,
+              "width": 1768,
+              "height": 653.2
+            },
+            "columns": [
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              },
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "rows": [
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "autoRows": "auto",
+            "resolvedRows": [
+              {
+                "mode": "fr",
+                "value": 1
+              }
+            ],
+            "columnSizes": [
+              572,
+              572,
+              572
+            ],
+            "rowSizes": [
+              653.2
+            ],
+            "cells": [
+              {
+                "path": "0.1.0",
+                "column": 0,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 76,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                }
+              },
+              {
+                "path": "0.1.1",
+                "column": 1,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 674,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                }
+              },
+              {
+                "path": "0.1.2",
+                "column": 2,
+                "row": 0,
+                "columnSpan": 1,
+                "rowSpan": 1,
+                "cellFrame": {
+                  "left": 1272,
+                  "top": 190,
+                  "width": 572,
+                  "height": 653.2
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.2",
+            "kind": "panel",
+            "name": "caserta-note",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 52,
+              "height": 74.4
+            },
+            "frame": {
+              "left": 76,
+              "top": 873.2,
+              "width": 1768,
+              "height": 74.4
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 873.2,
+              "width": 1768,
+              "height": 74.4
+            },
+            "children": [
+              {
+                "path": "0.2.0",
+                "kind": "text",
+                "name": "caserta-note-text",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 38.4
+                },
+                "frame": {
+                  "left": 102,
+                  "top": 891.2,
+                  "width": 1716,
+                  "height": 38.4
+                },
+                "snappedFrame": {
+                  "left": 102,
+                  "top": 892,
+                  "width": 1716,
+                  "height": 40
+                },
+                "children": [],
+                "text": "La domanda non è: pago meno di rata? La domanda è: tra X anni, se vendo, ho davvero battuto affitto + capitale investito?",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/q5o7qpg3",
+                  "id": "9",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 18,
+              "right": 26,
+              "bottom": 18,
+              "left": 26
+            },
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 102,
+              "top": 891.2,
+              "width": 1716,
+              "height": 38.4
+            },
+            "element": {
+              "aid": "sh/jqh0fepk",
+              "id": "8",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "row",
+            "name": "footer-4",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 204,
+              "height": 26.4
+            },
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "children": [
+              {
+                "path": "0.3.0",
+                "kind": "text",
+                "name": "footer-brand-4",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 120
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 120,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 978,
+                  "width": 120,
+                  "height": 28
+                },
+                "children": [],
+                "text": "citta.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/kzupwb2h",
+                  "id": "10",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.3.1",
+                "kind": "rule",
+                "name": "footer-rule-4",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 1
+                },
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                },
+                "snappedFrame": {
+                  "left": 210,
+                  "top": 978,
+                  "width": 1564,
+                  "height": 1
+                },
+                "children": [],
+                "weight": 1,
+                "element": {
+                  "aid": "sh/9knih4by",
+                  "id": "11",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.3.2",
+                "kind": "text",
+                "name": "footer-page-4",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 56
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 1788,
+                  "top": 978,
+                  "width": 56,
+                  "height": 28
+                },
+                "children": [],
+                "text": "4/7",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/2t83itgf",
+                  "id": "12",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 14,
+            "effectiveGap": 14,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "items": [
+              {
+                "path": "0.3.0",
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                }
+              },
+              {
+                "path": "0.3.1",
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                }
+              },
+              {
+                "path": "0.3.2",
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                }
+              }
+            ]
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 30,
+        "effectiveGap": 30,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 84
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 76,
+              "top": 190,
+              "width": 1768,
+              "height": 653.2
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 76,
+              "top": 873.2,
+              "width": 1768,
+              "height": 74.4
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

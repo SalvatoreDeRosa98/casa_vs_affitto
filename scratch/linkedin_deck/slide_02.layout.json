@@ -1,0 +1,1451 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7ikdd7",
+    "id": "7ikdd7",
+    "slide": 2,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "1",
+      "name": "myth-title",
+      "bbox": [
+        76,
+        76,
+        1076,
+        168
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0"
+      },
+      "geometry": "rect",
+      "text": "Il calcolo che ci raccontiamo è troppo semplice.",
+      "textPreview": "Il calcolo che ci raccontiamo è troppo semplice.",
+      "resolvedFontSize": 70,
+      "resolvedTextStyle": {
+        "fontSize": 70,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Il calcolo che ci raccontiamo è"
+          },
+          {
+            "index": 2,
+            "text": "troppo semplice."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Il calcolo che ci raccontiamo è troppo semplice.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Il calcolo che ci raccontiamo è troppo semplice.",
+              "fontSize": 70,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "2",
+      "name": "myth-wrong",
+      "bbox": [
+        76,
+        274,
+        867,
+        673.6
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#FFEDEC"
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "3",
+      "name": "myth-wrong-label",
+      "bbox": [
+        114,
+        312,
+        792,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0.0"
+      },
+      "geometry": "rect",
+      "text": "Versione pigra",
+      "textPreview": "Versione pigra",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Versione pigra"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Versione pigra",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Versione pigra",
+              "fontSize": 22,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "4",
+      "name": "myth-wrong-main",
+      "bbox": [
+        114,
+        358,
+        792,
+        140
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0.1"
+      },
+      "geometry": "rect",
+      "text": "Rata mutuo più bassa dell'affitto.",
+      "textPreview": "Rata mutuo più bassa dell'affitto.",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "fontSize": 58,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Rata mutuo più bassa"
+          },
+          {
+            "index": 2,
+            "text": "dell'affitto."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Rata mutuo più bassa dell'affitto.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Rata mutuo più bassa dell'affitto.",
+              "fontSize": 58,
+              "color": "#D93025",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "5",
+      "name": "myth-wrong-end",
+      "bbox": [
+        114,
+        518,
+        792,
+        46
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.0.0.2"
+      },
+      "geometry": "rect",
+      "text": "Quindi compro.",
+      "textPreview": "Quindi compro.",
+      "resolvedFontSize": 38,
+      "resolvedTextStyle": {
+        "fontSize": 38,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Quindi compro."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Quindi compro.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Quindi compro.",
+              "fontSize": 38,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "6",
+      "name": "myth-right",
+      "bbox": [
+        977,
+        274,
+        867,
+        673.6
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#111827"
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgn29gr",
+      "id": "7",
+      "name": "myth-right-label",
+      "bbox": [
+        1016,
+        312,
+        792,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0.0"
+      },
+      "geometry": "rect",
+      "text": "Versione onesta",
+      "textPreview": "Versione onesta",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Versione onesta"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Versione onesta",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Versione onesta",
+              "fontSize": 22,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5kb6xkf6",
+      "id": "8",
+      "name": "myth-right-main",
+      "bbox": [
+        1016,
+        358,
+        792,
+        70
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0.1"
+      },
+      "geometry": "rect",
+      "text": "Quanto resta se vendi?",
+      "textPreview": "Quanto resta se vendi?",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "fontSize": 58,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Quanto resta se vendi?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Quanto resta se vendi?",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Quanto resta se vendi?",
+              "fontSize": 58,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/czed8v6p",
+      "id": "9",
+      "name": "myth-right-end",
+      "bbox": [
+        1016,
+        448,
+        792,
+        82
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1.1.0.2"
+      },
+      "geometry": "rect",
+      "text": "E cosa avrebbe fatto il capitale iniziale se fosse stato investito?",
+      "textPreview": "E cosa avrebbe fatto il capitale iniziale se fosse stato investito?",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "E cosa avrebbe fatto il capitale iniziale se fosse stato"
+          },
+          {
+            "index": 2,
+            "text": "investito?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "E cosa avrebbe fatto il capitale iniziale se fosse stato investito?",
+          "runs": [
+            {
+              "index": 1,
+              "text": "E cosa avrebbe fatto il capitale iniziale se fosse stato investito?",
+              "fontSize": 34,
+              "color": "#DDEBFA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "10",
+      "name": "footer-brand-2",
+      "bbox": [
+        76,
+        978,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "11",
+      "name": "footer-rule-2",
+      "bbox": [
+        210,
+        978,
+        1564,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "12",
+      "name": "footer-page-2",
+      "bbox": [
+        1788,
+        978,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.2"
+      },
+      "geometry": "rect",
+      "text": "2/7",
+      "textPreview": "2/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "column",
+        "name": "myth-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1228.15,
+          "height": 406.4
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "text",
+            "name": "myth-title",
+            "requestedSize": {
+              "width": {
+                "mode": "wrap",
+                "max": 1260
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 1076.15,
+              "height": 168
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1076.15,
+              "height": 168
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 1076,
+              "height": 168
+            },
+            "children": [],
+            "text": "Il calcolo che ci raccontiamo è troppo semplice.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/gbq1oryt",
+              "id": "1",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.1",
+            "kind": "row",
+            "name": "myth-row",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "fill",
+                "value": 1
+              }
+            },
+            "intrinsicSize": {
+              "width": 34,
+              "height": 0
+            },
+            "frame": {
+              "left": 76,
+              "top": 274,
+              "width": 1768,
+              "height": 673.6
+            },
+            "children": [
+              {
+                "path": "0.1.0",
+                "kind": "panel",
+                "name": "myth-wrong",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 76,
+                  "height": 76
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                },
+                "children": [
+                  {
+                    "path": "0.1.0.0",
+                    "kind": "column",
+                    "name": "myth-wrong-stack",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 181.6
+                    },
+                    "frame": {
+                      "left": 114,
+                      "top": 312,
+                      "width": 791,
+                      "height": 597.6
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.0.0.0",
+                        "kind": "text",
+                        "name": "myth-wrong-label",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 26.4
+                        },
+                        "frame": {
+                          "left": 114,
+                          "top": 312,
+                          "width": 791,
+                          "height": 26.4
+                        },
+                        "snappedFrame": {
+                          "left": 114,
+                          "top": 312,
+                          "width": 792,
+                          "height": 28
+                        },
+                        "children": [],
+                        "text": "Versione pigra",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/y90je9cv",
+                          "id": "3",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.1",
+                        "kind": "text",
+                        "name": "myth-wrong-main",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 69.6
+                        },
+                        "frame": {
+                          "left": 114,
+                          "top": 358.4,
+                          "width": 791,
+                          "height": 139.2
+                        },
+                        "snappedFrame": {
+                          "left": 114,
+                          "top": 358,
+                          "width": 792,
+                          "height": 140
+                        },
+                        "children": [],
+                        "text": "Rata mutuo più bassa dell'affitto.",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/58z25kb6",
+                          "id": "4",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.2",
+                        "kind": "text",
+                        "name": "myth-wrong-end",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 45.6
+                        },
+                        "frame": {
+                          "left": 114,
+                          "top": 517.6,
+                          "width": 791,
+                          "height": 45.6
+                        },
+                        "snappedFrame": {
+                          "left": 114,
+                          "top": 518,
+                          "width": 792,
+                          "height": 46
+                        },
+                        "children": [],
+                        "text": "Quindi compro.",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/gn29gr2p",
+                          "id": "5",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 20,
+                    "effectiveGap": 20,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 114,
+                      "top": 312,
+                      "width": 791,
+                      "height": 597.6
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.0.0.0",
+                        "frame": {
+                          "left": 114,
+                          "top": 312,
+                          "width": 791,
+                          "height": 26.4
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.1",
+                        "frame": {
+                          "left": 114,
+                          "top": 358.4,
+                          "width": 791,
+                          "height": 139.2
+                        }
+                      },
+                      {
+                        "path": "0.1.0.0.2",
+                        "frame": {
+                          "left": 114,
+                          "top": 517.6,
+                          "width": 791,
+                          "height": 45.6
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 38,
+                  "right": 38,
+                  "bottom": 38,
+                  "left": 38
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 114,
+                  "top": 312,
+                  "width": 791,
+                  "height": 597.6
+                },
+                "element": {
+                  "aid": "sh/nuxc3ylc",
+                  "id": "2",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.1.1",
+                "kind": "panel",
+                "name": "myth-right",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fill",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 76,
+                  "height": 76
+                },
+                "frame": {
+                  "left": 977,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                },
+                "snappedFrame": {
+                  "left": 977,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                },
+                "children": [
+                  {
+                    "path": "0.1.1.0",
+                    "kind": "column",
+                    "name": "myth-right-stack",
+                    "requestedSize": {
+                      "width": {
+                        "mode": "fill",
+                        "value": 1
+                      },
+                      "height": {
+                        "mode": "fill",
+                        "value": 1
+                      }
+                    },
+                    "intrinsicSize": {
+                      "width": 0,
+                      "height": 176.8
+                    },
+                    "frame": {
+                      "left": 1015,
+                      "top": 312,
+                      "width": 791,
+                      "height": 597.6
+                    },
+                    "children": [
+                      {
+                        "path": "0.1.1.0.0",
+                        "kind": "text",
+                        "name": "myth-right-label",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 26.4
+                        },
+                        "frame": {
+                          "left": 1015,
+                          "top": 312,
+                          "width": 791,
+                          "height": 26.4
+                        },
+                        "snappedFrame": {
+                          "left": 1016,
+                          "top": 312,
+                          "width": 792,
+                          "height": 28
+                        },
+                        "children": [],
+                        "text": "Versione onesta",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/yhgn29gr",
+                          "id": "7",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.1",
+                        "kind": "text",
+                        "name": "myth-right-main",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 69.6
+                        },
+                        "frame": {
+                          "left": 1015,
+                          "top": 358.4,
+                          "width": 791,
+                          "height": 69.6
+                        },
+                        "snappedFrame": {
+                          "left": 1016,
+                          "top": 358,
+                          "width": 792,
+                          "height": 70
+                        },
+                        "children": [],
+                        "text": "Quanto resta se vendi?",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/5kb6xkf6",
+                          "id": "8",
+                          "kind": "shape"
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.2",
+                        "kind": "text",
+                        "name": "myth-right-end",
+                        "requestedSize": {
+                          "width": {
+                            "mode": "fill",
+                            "value": 1
+                          },
+                          "height": {
+                            "mode": "hug"
+                          }
+                        },
+                        "intrinsicSize": {
+                          "width": 0,
+                          "height": 40.8
+                        },
+                        "frame": {
+                          "left": 1015,
+                          "top": 448,
+                          "width": 791,
+                          "height": 81.6
+                        },
+                        "snappedFrame": {
+                          "left": 1016,
+                          "top": 448,
+                          "width": 792,
+                          "height": 82
+                        },
+                        "children": [],
+                        "text": "E cosa avrebbe fatto il capitale iniziale se fosse stato investito?",
+                        "transform": "none",
+                        "element": {
+                          "aid": "sh/czed8v6p",
+                          "id": "9",
+                          "kind": "shape"
+                        }
+                      }
+                    ],
+                    "padding": {
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0,
+                      "left": 0
+                    },
+                    "gap": 20,
+                    "effectiveGap": 20,
+                    "justifyOffset": 0,
+                    "align": "start",
+                    "justify": "start",
+                    "contentFrame": {
+                      "left": 1015,
+                      "top": 312,
+                      "width": 791,
+                      "height": 597.6
+                    },
+                    "items": [
+                      {
+                        "path": "0.1.1.0.0",
+                        "frame": {
+                          "left": 1015,
+                          "top": 312,
+                          "width": 791,
+                          "height": 26.4
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.1",
+                        "frame": {
+                          "left": 1015,
+                          "top": 358.4,
+                          "width": 791,
+                          "height": 69.6
+                        }
+                      },
+                      {
+                        "path": "0.1.1.0.2",
+                        "frame": {
+                          "left": 1015,
+                          "top": 448,
+                          "width": 791,
+                          "height": 81.6
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "padding": {
+                  "top": 38,
+                  "right": 38,
+                  "bottom": 38,
+                  "left": 38
+                },
+                "align": "start",
+                "justify": "start",
+                "contentFrame": {
+                  "left": 1015,
+                  "top": 312,
+                  "width": 791,
+                  "height": 597.6
+                },
+                "element": {
+                  "aid": "sh/n29gr2p8",
+                  "id": "6",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 34,
+            "effectiveGap": 34,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 274,
+              "width": 1768,
+              "height": 673.6
+            },
+            "items": [
+              {
+                "path": "0.1.0",
+                "frame": {
+                  "left": 76,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                }
+              },
+              {
+                "path": "0.1.1",
+                "frame": {
+                  "left": 977,
+                  "top": 274,
+                  "width": 867,
+                  "height": 673.6
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.2",
+            "kind": "row",
+            "name": "footer-2",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 204,
+              "height": 26.4
+            },
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "children": [
+              {
+                "path": "0.2.0",
+                "kind": "text",
+                "name": "footer-brand-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 120
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 120,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 978,
+                  "width": 120,
+                  "height": 28
+                },
+                "children": [],
+                "text": "citta.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/2hwfyxob",
+                  "id": "10",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.2.1",
+                "kind": "rule",
+                "name": "footer-rule-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 1
+                },
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                },
+                "snappedFrame": {
+                  "left": 210,
+                  "top": 978,
+                  "width": 1564,
+                  "height": 1
+                },
+                "children": [],
+                "weight": 1,
+                "element": {
+                  "aid": "sh/r2p8nqxs",
+                  "id": "11",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.2.2",
+                "kind": "text",
+                "name": "footer-page-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 56
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 1788,
+                  "top": 978,
+                  "width": 56,
+                  "height": 28
+                },
+                "children": [],
+                "text": "2/7",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/kjm1cfa9",
+                  "id": "12",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 14,
+            "effectiveGap": 14,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            },
+            "items": [
+              {
+                "path": "0.2.0",
+                "frame": {
+                  "left": 76,
+                  "top": 977.6,
+                  "width": 120,
+                  "height": 26.4
+                }
+              },
+              {
+                "path": "0.2.1",
+                "frame": {
+                  "left": 210,
+                  "top": 977.6,
+                  "width": 1564,
+                  "height": 1
+                }
+              },
+              {
+                "path": "0.2.2",
+                "frame": {
+                  "left": 1788,
+                  "top": 977.6,
+                  "width": 56,
+                  "height": 26.4
+                }
+              }
+            ]
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 30,
+        "effectiveGap": 30,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1076.15,
+              "height": 168
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 76,
+              "top": 274,
+              "width": 1768,
+              "height": 673.6
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 76,
+              "top": 977.6,
+              "width": 1768,
+              "height": 26.4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

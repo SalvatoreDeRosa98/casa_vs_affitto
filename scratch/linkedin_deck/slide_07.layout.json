@@ -1,0 +1,964 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2si5xw",
+    "id": "2si5xw",
+    "slide": 7,
+    "layoutId": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "68cc627d-7cbd-4d47-8ee1-8afc7a1d8653",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "52e36596-32c7-4c78-a07e-a4c221d5478b",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "1",
+      "name": "cta-title-1",
+      "bbox": [
+        76,
+        76,
+        1768,
+        100
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.0"
+      },
+      "geometry": "rect",
+      "text": "La casa non è solo un sogno.",
+      "textPreview": "La casa non è solo un sogno.",
+      "resolvedFontSize": 82,
+      "resolvedTextStyle": {
+        "fontSize": 82,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "La casa non è solo un sogno."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "La casa non è solo un sogno.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "La casa non è solo un sogno.",
+              "fontSize": 82,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "2",
+      "name": "cta-title-2",
+      "bbox": [
+        76,
+        182,
+        1768,
+        100
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.0.1"
+      },
+      "geometry": "rect",
+      "text": "È anche un modello finanziario.",
+      "textPreview": "È anche un modello finanziario.",
+      "resolvedFontSize": 82,
+      "resolvedTextStyle": {
+        "fontSize": 82,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "È anche un modello finanziario."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "È anche un modello finanziario.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "È anche un modello finanziario.",
+              "fontSize": 82,
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "3",
+      "name": "cta-body",
+      "bbox": [
+        76,
+        314,
+        1174,
+        82
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.1"
+      },
+      "geometry": "rect",
+      "text": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi cambia anticipo, ETF e costo vendita. Il verdetto serio nasce lì.",
+      "textPreview": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi cambia anticipo, ETF e costo vendita. Il verdetto ser...",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi"
+          },
+          {
+            "index": 2,
+            "text": "cambia anticipo, ETF e costo vendita. Il verdetto serio nasce lì."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi cambia anticipo, ETF e costo vendita. Il verdetto serio nasce lì.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi cambia anticipo, ETF e costo vendita. Il verdetto serio nasce lì.",
+              "fontSize": 34,
+              "color": "#34495E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "4",
+      "name": "cta-strip",
+      "bbox": [
+        76,
+        430.4,
+        1768,
+        108
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2"
+      },
+      "geometry": "roundRect",
+      "fillColor": "#0A66C2"
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8nqxs7",
+      "id": "5",
+      "name": "cta-strip-text",
+      "bbox": [
+        110,
+        454,
+        1700,
+        60
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.2.0"
+      },
+      "geometry": "rect",
+      "text": "Vuoi comprare casa? Prima fai litigare i numeri.",
+      "textPreview": "Vuoi comprare casa? Prima fai litigare i numeri.",
+      "resolvedFontSize": 50,
+      "resolvedTextStyle": {
+        "fontSize": 50,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Vuoi comprare casa? Prima fai litigare i numeri."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Vuoi comprare casa? Prima fai litigare i numeri.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Vuoi comprare casa? Prima fai litigare i numeri.",
+              "fontSize": 50,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "6",
+      "name": "footer-brand-7",
+      "bbox": [
+        76,
+        572,
+        120,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.0"
+      },
+      "geometry": "rect",
+      "text": "citta.",
+      "textPreview": "citta.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "citta."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "citta.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "citta.",
+              "fontSize": 22,
+              "color": "#0A66C2",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvy90je9",
+      "id": "7",
+      "name": "footer-rule-7",
+      "bbox": [
+        210,
+        572,
+        1564,
+        1
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.1"
+      },
+      "geometry": "rect",
+      "fillColor": "#D9E2EC",
+      "lineColor": "#D9E2EC",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "8",
+      "name": "footer-page-7",
+      "bbox": [
+        1788,
+        572,
+        56,
+        28
+      ],
+      "composeSource": {
+        "run": 1,
+        "path": "0.3.2"
+      },
+      "geometry": "rect",
+      "text": "7/7",
+      "textPreview": "7/7",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "7/7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "7/7",
+          "runs": [
+            {
+              "index": 1,
+              "text": "7/7",
+              "fontSize": 22,
+              "color": "#61758A",
+              "alignment": "right"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": [
+    {
+      "index": 1,
+      "frame": {
+        "left": 0,
+        "top": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "baseUnit": 8,
+      "root": {
+        "path": "0",
+        "kind": "column",
+        "name": "cta-root",
+        "requestedSize": {
+          "width": {
+            "mode": "fill",
+            "value": 1
+          },
+          "height": {
+            "mode": "fill",
+            "value": 1
+          }
+        },
+        "intrinsicSize": {
+          "width": 1326.44,
+          "height": 674.8
+        },
+        "frame": {
+          "left": 0,
+          "top": 0,
+          "width": 1920,
+          "height": 1080
+        },
+        "children": [
+          {
+            "path": "0.0",
+            "kind": "column",
+            "name": "cta-title-stack",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 0,
+              "height": 204.8
+            },
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 204.8
+            },
+            "children": [
+              {
+                "path": "0.0.0",
+                "kind": "text",
+                "name": "cta-title-1",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 98.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 1768,
+                  "height": 98.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 1768,
+                  "height": 100
+                },
+                "children": [],
+                "text": "La casa non è solo un sogno.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/2hwfyxob",
+                  "id": "1",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.0.1",
+                "kind": "text",
+                "name": "cta-title-2",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 98.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 182.4,
+                  "width": 1768,
+                  "height": 98.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 182,
+                  "width": 1768,
+                  "height": 100
+                },
+                "children": [],
+                "text": "È anche un modello finanziario.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/94fu18jq",
+                  "id": "2",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 8,
+            "effectiveGap": 8,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 204.8
+            },
+            "items": [
+              {
+                "path": "0.0.0",
+                "frame": {
+                  "left": 76,
+                  "top": 76,
+                  "width": 1768,
+                  "height": 98.4
+                }
+              },
+              {
+                "path": "0.0.1",
+                "frame": {
+                  "left": 76,
+                  "top": 182.4,
+                  "width": 1768,
+                  "height": 98.4
+                }
+              }
+            ]
+          },
+          {
+            "path": "0.1",
+            "kind": "text",
+            "name": "cta-body",
+            "requestedSize": {
+              "width": {
+                "mode": "wrap",
+                "max": 1180
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 1174.44,
+              "height": 81.6
+            },
+            "frame": {
+              "left": 76,
+              "top": 314.8,
+              "width": 1174.44,
+              "height": 81.6
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 314,
+              "width": 1174,
+              "height": 82
+            },
+            "children": [],
+            "text": "Prima di decidere, prova 3 scenari: resti 5 anni, resti 10 anni, resti 20 anni. Poi cambia anticipo, ETF e costo vendita. Il verdetto serio nasce lì.",
+            "transform": "none",
+            "element": {
+              "aid": "sh/kjm1cfa9",
+              "id": "3",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.2",
+            "kind": "panel",
+            "name": "cta-strip",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 68,
+              "height": 108
+            },
+            "frame": {
+              "left": 76,
+              "top": 430.4,
+              "width": 1768,
+              "height": 108
+            },
+            "snappedFrame": {
+              "left": 76,
+              "top": 430.4,
+              "width": 1768,
+              "height": 108
+            },
+            "children": [
+              {
+                "path": "0.2.0",
+                "kind": "text",
+                "name": "cta-strip-text",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 60
+                },
+                "frame": {
+                  "left": 110,
+                  "top": 454.4,
+                  "width": 1700,
+                  "height": 60
+                },
+                "snappedFrame": {
+                  "left": 110,
+                  "top": 454,
+                  "width": 1700,
+                  "height": 60
+                },
+                "children": [],
+                "text": "Vuoi comprare casa? Prima fai litigare i numeri.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/2p8nqxs7",
+                  "id": "5",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 24,
+              "right": 34,
+              "bottom": 24,
+              "left": 34
+            },
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 110,
+              "top": 454.4,
+              "width": 1700,
+              "height": 60
+            },
+            "element": {
+              "aid": "sh/ra5gbq1o",
+              "id": "4",
+              "kind": "shape"
+            }
+          },
+          {
+            "path": "0.3",
+            "kind": "row",
+            "name": "footer-7",
+            "requestedSize": {
+              "width": {
+                "mode": "fill",
+                "value": 1
+              },
+              "height": {
+                "mode": "hug"
+              }
+            },
+            "intrinsicSize": {
+              "width": 204,
+              "height": 26.4
+            },
+            "frame": {
+              "left": 76,
+              "top": 572.4,
+              "width": 1768,
+              "height": 26.4
+            },
+            "children": [
+              {
+                "path": "0.3.0",
+                "kind": "text",
+                "name": "footer-brand-7",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 120
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 120,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 76,
+                  "top": 572.4,
+                  "width": 120,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 76,
+                  "top": 572,
+                  "width": 120,
+                  "height": 28
+                },
+                "children": [],
+                "text": "citta.",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/9gr2p8nq",
+                  "id": "6",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.3.1",
+                "kind": "rule",
+                "name": "footer-rule-7",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fill",
+                    "value": 1
+                  },
+                  "height": {
+                    "mode": "fixed",
+                    "value": 1
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 0,
+                  "height": 1
+                },
+                "frame": {
+                  "left": 210,
+                  "top": 572.4,
+                  "width": 1564,
+                  "height": 1
+                },
+                "snappedFrame": {
+                  "left": 210,
+                  "top": 572,
+                  "width": 1564,
+                  "height": 1
+                },
+                "children": [],
+                "weight": 1,
+                "element": {
+                  "aid": "sh/gvy90je9",
+                  "id": "7",
+                  "kind": "shape"
+                }
+              },
+              {
+                "path": "0.3.2",
+                "kind": "text",
+                "name": "footer-page-7",
+                "requestedSize": {
+                  "width": {
+                    "mode": "fixed",
+                    "value": 56
+                  },
+                  "height": {
+                    "mode": "hug"
+                  }
+                },
+                "intrinsicSize": {
+                  "width": 56,
+                  "height": 26.4
+                },
+                "frame": {
+                  "left": 1788,
+                  "top": 572.4,
+                  "width": 56,
+                  "height": 26.4
+                },
+                "snappedFrame": {
+                  "left": 1788,
+                  "top": 572,
+                  "width": 56,
+                  "height": 28
+                },
+                "children": [],
+                "text": "7/7",
+                "transform": "none",
+                "element": {
+                  "aid": "sh/re1w7mp0",
+                  "id": "8",
+                  "kind": "shape"
+                }
+              }
+            ],
+            "padding": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "gap": 14,
+            "effectiveGap": 14,
+            "justifyOffset": 0,
+            "align": "start",
+            "justify": "start",
+            "contentFrame": {
+              "left": 76,
+              "top": 572.4,
+              "width": 1768,
+              "height": 26.4
+            },
+            "items": [
+              {
+                "path": "0.3.0",
+                "frame": {
+                  "left": 76,
+                  "top": 572.4,
+                  "width": 120,
+                  "height": 26.4
+                }
+              },
+              {
+                "path": "0.3.1",
+                "frame": {
+                  "left": 210,
+                  "top": 572.4,
+                  "width": 1564,
+                  "height": 1
+                }
+              },
+              {
+                "path": "0.3.2",
+                "frame": {
+                  "left": 1788,
+                  "top": 572.4,
+                  "width": 56,
+                  "height": 26.4
+                }
+              }
+            ]
+          }
+        ],
+        "padding": {
+          "top": 76,
+          "right": 76,
+          "bottom": 76,
+          "left": 76
+        },
+        "gap": 34,
+        "effectiveGap": 34,
+        "justifyOffset": 0,
+        "align": "start",
+        "justify": "start",
+        "contentFrame": {
+          "left": 76,
+          "top": 76,
+          "width": 1768,
+          "height": 928
+        },
+        "items": [
+          {
+            "path": "0.0",
+            "frame": {
+              "left": 76,
+              "top": 76,
+              "width": 1768,
+              "height": 204.8
+            }
+          },
+          {
+            "path": "0.1",
+            "frame": {
+              "left": 76,
+              "top": 314.8,
+              "width": 1174.44,
+              "height": 81.6
+            }
+          },
+          {
+            "path": "0.2",
+            "frame": {
+              "left": 76,
+              "top": 430.4,
+              "width": 1768,
+              "height": 108
+            }
+          },
+          {
+            "path": "0.3",
+            "frame": {
+              "left": 76,
+              "top": 572.4,
+              "width": 1768,
+              "height": 26.4
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
