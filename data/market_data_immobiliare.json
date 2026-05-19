@@ -1,0 +1,852 @@
+{
+  "source": "Immobiliare.it - mercato immobiliare",
+  "source_note": "Prezzi richiesti per immobili residenziali pubblicati nelle pagine Mercato immobiliare.",
+  "period": "Aprile 2026",
+  "updated_at": "2026-05-19T19:18:55.042411+00:00",
+  "records": {
+    "Agrigento": {
+      "prezzo_mq": 900,
+      "affitto_mq_mese": 6.71,
+      "affitto_80mq": 537,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/agrigento/"
+    },
+    "Alessandria": {
+      "prezzo_mq": 954,
+      "affitto_mq_mese": 7.14,
+      "affitto_80mq": 571,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/alessandria/"
+    },
+    "Ancona": {
+      "prezzo_mq": 1768,
+      "affitto_mq_mese": 10.22,
+      "affitto_80mq": 818,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/marche/ancona/"
+    },
+    "Aosta": {
+      "prezzo_mq": 2243,
+      "affitto_mq_mese": 11.61,
+      "affitto_80mq": 929,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/valle-d-aosta/aosta/"
+    },
+    "Arezzo": {
+      "prezzo_mq": 1861,
+      "affitto_mq_mese": 9.52,
+      "affitto_80mq": 762,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/arezzo/"
+    },
+    "Ascoli Piceno": {
+      "prezzo_mq": 1353,
+      "affitto_mq_mese": 8.44,
+      "affitto_80mq": 675,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/marche/ascoli-piceno/"
+    },
+    "Asti": {
+      "prezzo_mq": 1154,
+      "affitto_mq_mese": 7.28,
+      "affitto_80mq": 582,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/asti/"
+    },
+    "Avellino": {
+      "prezzo_mq": 1365,
+      "affitto_mq_mese": 7.74,
+      "affitto_80mq": 619,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/campania/avellino/"
+    },
+    "Bari": {
+      "prezzo_mq": 2262,
+      "affitto_mq_mese": 13.04,
+      "affitto_80mq": 1043,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/bari/"
+    },
+    "Barletta": {
+      "prezzo_mq": 1565,
+      "affitto_mq_mese": 8.3,
+      "affitto_80mq": 664,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/barletta/"
+    },
+    "Belluno": {
+      "prezzo_mq": 1506,
+      "affitto_mq_mese": 8.89,
+      "affitto_80mq": 711,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/belluno/"
+    },
+    "Benevento": {
+      "prezzo_mq": 1107,
+      "affitto_mq_mese": 7.62,
+      "affitto_80mq": 610,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/campania/benevento/"
+    },
+    "Bergamo": {
+      "prezzo_mq": 2902,
+      "affitto_mq_mese": 13.32,
+      "affitto_80mq": 1066,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/bergamo/"
+    },
+    "Biella": {
+      "prezzo_mq": 782,
+      "affitto_mq_mese": 6.97,
+      "affitto_80mq": 558,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/biella/"
+    },
+    "Bologna": {
+      "prezzo_mq": 3818,
+      "affitto_mq_mese": 16.61,
+      "affitto_80mq": 1329,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/bologna/"
+    },
+    "Brescia": {
+      "prezzo_mq": 2300,
+      "affitto_mq_mese": 12.11,
+      "affitto_80mq": 969,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/brescia/"
+    },
+    "Brindisi": {
+      "prezzo_mq": 1205,
+      "affitto_mq_mese": 7.88,
+      "affitto_80mq": 630,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/brindisi/"
+    },
+    "Cagliari": {
+      "prezzo_mq": 2715,
+      "affitto_mq_mese": 13.97,
+      "affitto_80mq": 1118,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sardegna/cagliari/"
+    },
+    "Caltanissetta": {
+      "prezzo_mq": 664,
+      "affitto_mq_mese": 4.56,
+      "affitto_80mq": 365,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/caltanissetta/"
+    },
+    "Campobasso": {
+      "prezzo_mq": 1086,
+      "affitto_mq_mese": 6.91,
+      "affitto_80mq": 553,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/molise/campobasso/"
+    },
+    "Caserta": {
+      "prezzo_mq": 1751,
+      "affitto_mq_mese": 8.92,
+      "affitto_80mq": 714,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/campania/caserta/"
+    },
+    "Catania": {
+      "prezzo_mq": 1315,
+      "affitto_mq_mese": 9.85,
+      "affitto_80mq": 788,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/catania/"
+    },
+    "Catanzaro": {
+      "prezzo_mq": 1027,
+      "affitto_mq_mese": 8.88,
+      "affitto_80mq": 710,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/calabria/catanzaro/"
+    },
+    "Chieti": {
+      "prezzo_mq": 1078,
+      "affitto_mq_mese": 6.79,
+      "affitto_80mq": 543,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/abruzzo/chieti/"
+    },
+    "Como": {
+      "prezzo_mq": 3296,
+      "affitto_mq_mese": 14.85,
+      "affitto_80mq": 1188,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/como/"
+    },
+    "Cosenza": {
+      "prezzo_mq": 1092,
+      "affitto_mq_mese": 6.39,
+      "affitto_80mq": 511,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/calabria/cosenza/"
+    },
+    "Cremona": {
+      "prezzo_mq": 1558,
+      "affitto_mq_mese": 8.57,
+      "affitto_80mq": 686,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/cremona/"
+    },
+    "Crotone": {
+      "prezzo_mq": 1162,
+      "affitto_mq_mese": 7.49,
+      "affitto_80mq": 599,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/calabria/crotone/"
+    },
+    "Cuneo": {
+      "prezzo_mq": 1843,
+      "affitto_mq_mese": 8.49,
+      "affitto_80mq": 679,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/cuneo/"
+    },
+    "Enna": {
+      "prezzo_mq": 919,
+      "affitto_mq_mese": 5.36,
+      "affitto_80mq": 429,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/enna/"
+    },
+    "Fermo": {
+      "prezzo_mq": 1326,
+      "affitto_mq_mese": 7.62,
+      "affitto_80mq": 610,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/marche/fermo/"
+    },
+    "Ferrara": {
+      "prezzo_mq": 1745,
+      "affitto_mq_mese": 10.3,
+      "affitto_80mq": 824,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/ferrara/"
+    },
+    "Firenze": {
+      "prezzo_mq": 4737,
+      "affitto_mq_mese": 20.91,
+      "affitto_80mq": 1673,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/firenze/"
+    },
+    "Foggia": {
+      "prezzo_mq": 1101,
+      "affitto_mq_mese": 7.29,
+      "affitto_80mq": 583,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/foggia/"
+    },
+    "Forlì": {
+      "prezzo_mq": 1829,
+      "affitto_mq_mese": 9.71,
+      "affitto_80mq": 777,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/forli/"
+    },
+    "Frosinone": {
+      "prezzo_mq": 1233,
+      "affitto_mq_mese": 7.58,
+      "affitto_80mq": 606,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lazio/frosinone/"
+    },
+    "Genova": {
+      "prezzo_mq": 1797,
+      "affitto_mq_mese": 10.45,
+      "affitto_80mq": 836,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/liguria/genova/"
+    },
+    "Gorizia": {
+      "prezzo_mq": 1317,
+      "affitto_mq_mese": 9.41,
+      "affitto_80mq": 753,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/friuli-venezia-giulia/gorizia/"
+    },
+    "Grosseto": {
+      "prezzo_mq": 2315,
+      "affitto_mq_mese": 10.14,
+      "affitto_80mq": 811,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/grosseto/"
+    },
+    "Imperia": {
+      "prezzo_mq": 2225,
+      "affitto_mq_mese": 11.1,
+      "affitto_80mq": 888,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/liguria/imperia/"
+    },
+    "Isernia": {
+      "prezzo_mq": 906,
+      "affitto_mq_mese": 7.33,
+      "affitto_80mq": 586,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/molise/isernia/"
+    },
+    "L'Aquila": {
+      "prezzo_mq": 1479,
+      "affitto_mq_mese": 8.05,
+      "affitto_80mq": 644,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/abruzzo/l-aquila/"
+    },
+    "La Spezia": {
+      "prezzo_mq": 2213,
+      "affitto_mq_mese": 10.08,
+      "affitto_80mq": 806,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/liguria/la-spezia/"
+    },
+    "Latina": {
+      "prezzo_mq": 1939,
+      "affitto_mq_mese": 9.46,
+      "affitto_80mq": 757,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lazio/latina/"
+    },
+    "Lecce": {
+      "prezzo_mq": 1633,
+      "affitto_mq_mese": 9.17,
+      "affitto_80mq": 734,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/lecce/"
+    },
+    "Lecco": {
+      "prezzo_mq": 2663,
+      "affitto_mq_mese": 11.6,
+      "affitto_80mq": 928,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/lecco/"
+    },
+    "Livorno": {
+      "prezzo_mq": 2281,
+      "affitto_mq_mese": 11.62,
+      "affitto_80mq": 930,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/livorno/"
+    },
+    "Lodi": {
+      "prezzo_mq": 2041,
+      "affitto_mq_mese": 10.36,
+      "affitto_80mq": 829,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/lodi/"
+    },
+    "Lucca": {
+      "prezzo_mq": 2334,
+      "affitto_mq_mese": 11.46,
+      "affitto_80mq": 917,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/lucca/"
+    },
+    "Macerata": {
+      "prezzo_mq": 1168,
+      "affitto_mq_mese": 6.67,
+      "affitto_80mq": 534,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/marche/macerata/"
+    },
+    "Mantova": {
+      "prezzo_mq": 1631,
+      "affitto_mq_mese": 9.95,
+      "affitto_80mq": 796,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/mantova/"
+    },
+    "Massa": {
+      "prezzo_mq": 2657,
+      "affitto_mq_mese": 14.46,
+      "affitto_80mq": 1157,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/massa/"
+    },
+    "Matera": {
+      "prezzo_mq": 2060,
+      "affitto_mq_mese": 8.85,
+      "affitto_80mq": 708,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/basilicata/matera/"
+    },
+    "Messina": {
+      "prezzo_mq": 1063,
+      "affitto_mq_mese": 8.16,
+      "affitto_80mq": 653,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/messina/"
+    },
+    "Milano": {
+      "prezzo_mq": 5653,
+      "affitto_mq_mese": 22.25,
+      "affitto_80mq": 1780,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/milano/"
+    },
+    "Modena": {
+      "prezzo_mq": 2445,
+      "affitto_mq_mese": 12.54,
+      "affitto_80mq": 1003,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/modena/"
+    },
+    "Monza": {
+      "prezzo_mq": 3229,
+      "affitto_mq_mese": 14.22,
+      "affitto_80mq": 1138,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/monza/"
+    },
+    "Napoli": {
+      "prezzo_mq": 3010,
+      "affitto_mq_mese": 14.93,
+      "affitto_80mq": 1194,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/campania/napoli/"
+    },
+    "Novara": {
+      "prezzo_mq": 1655,
+      "affitto_mq_mese": 9.87,
+      "affitto_80mq": 790,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/novara/"
+    },
+    "Nuoro": {
+      "prezzo_mq": 1214,
+      "affitto_mq_mese": 7.0,
+      "affitto_80mq": 560,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sardegna/nuoro/"
+    },
+    "Oristano": {
+      "prezzo_mq": 1409,
+      "affitto_mq_mese": 7.63,
+      "affitto_80mq": 610,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sardegna/oristano/"
+    },
+    "Padova": {
+      "prezzo_mq": 2563,
+      "affitto_mq_mese": 14.12,
+      "affitto_80mq": 1130,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/padova/"
+    },
+    "Palermo": {
+      "prezzo_mq": 1547,
+      "affitto_mq_mese": 9.55,
+      "affitto_80mq": 764,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/palermo/"
+    },
+    "Parma": {
+      "prezzo_mq": 2567,
+      "affitto_mq_mese": 12.43,
+      "affitto_80mq": 994,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/parma/"
+    },
+    "Pavia": {
+      "prezzo_mq": 2583,
+      "affitto_mq_mese": 11.65,
+      "affitto_80mq": 932,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/pavia/"
+    },
+    "Perugia": {
+      "prezzo_mq": 1351,
+      "affitto_mq_mese": 9.9,
+      "affitto_80mq": 792,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/umbria/perugia/"
+    },
+    "Pesaro": {
+      "prezzo_mq": 2324,
+      "affitto_mq_mese": 10.1,
+      "affitto_80mq": 808,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/marche/pesaro/"
+    },
+    "Pescara": {
+      "prezzo_mq": 2114,
+      "affitto_mq_mese": 9.86,
+      "affitto_80mq": 789,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/abruzzo/pescara/"
+    },
+    "Piacenza": {
+      "prezzo_mq": 1945,
+      "affitto_mq_mese": 9.91,
+      "affitto_80mq": 793,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/piacenza/"
+    },
+    "Pisa": {
+      "prezzo_mq": 2820,
+      "affitto_mq_mese": 12.82,
+      "affitto_80mq": 1026,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/pisa/"
+    },
+    "Pistoia": {
+      "prezzo_mq": 1724,
+      "affitto_mq_mese": 9.8,
+      "affitto_80mq": 784,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/pistoia/"
+    },
+    "Pordenone": {
+      "prezzo_mq": 1965,
+      "affitto_mq_mese": 9.97,
+      "affitto_80mq": 798,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/friuli-venezia-giulia/pordenone/"
+    },
+    "Potenza": {
+      "prezzo_mq": 1294,
+      "affitto_mq_mese": 6.44,
+      "affitto_80mq": 515,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/basilicata/potenza/"
+    },
+    "Prato": {
+      "prezzo_mq": 2361,
+      "affitto_mq_mese": 12.12,
+      "affitto_80mq": 970,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/prato/"
+    },
+    "Ragusa": {
+      "prezzo_mq": 1089,
+      "affitto_mq_mese": 6.04,
+      "affitto_80mq": 483,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/ragusa/"
+    },
+    "Ravenna": {
+      "prezzo_mq": 2171,
+      "affitto_mq_mese": 12.2,
+      "affitto_80mq": 976,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/ravenna/"
+    },
+    "Reggio Calabria": {
+      "prezzo_mq": 846,
+      "affitto_mq_mese": 6.34,
+      "affitto_80mq": 507,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/calabria/reggio-calabria/"
+    },
+    "Rieti": {
+      "prezzo_mq": 1190,
+      "affitto_mq_mese": 7.62,
+      "affitto_80mq": 610,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lazio/rieti/"
+    },
+    "Rimini": {
+      "prezzo_mq": 2916,
+      "affitto_mq_mese": 12.6,
+      "affitto_80mq": 1008,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/rimini/"
+    },
+    "Roma": {
+      "prezzo_mq": 3779,
+      "affitto_mq_mese": 18.48,
+      "affitto_80mq": 1478,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lazio/roma/"
+    },
+    "Rovigo": {
+      "prezzo_mq": 1249,
+      "affitto_mq_mese": 8.85,
+      "affitto_80mq": 708,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/rovigo/"
+    },
+    "Salerno": {
+      "prezzo_mq": 2855,
+      "affitto_mq_mese": 12.31,
+      "affitto_80mq": 985,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/campania/salerno/"
+    },
+    "Sassari": {
+      "prezzo_mq": 1322,
+      "affitto_mq_mese": 7.86,
+      "affitto_80mq": 629,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sardegna/sassari/"
+    },
+    "Savona": {
+      "prezzo_mq": 2079,
+      "affitto_mq_mese": 10.35,
+      "affitto_80mq": 828,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/liguria/savona/"
+    },
+    "Siena": {
+      "prezzo_mq": 2971,
+      "affitto_mq_mese": 11.64,
+      "affitto_80mq": 931,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/toscana/siena/"
+    },
+    "Siracusa": {
+      "prezzo_mq": 1344,
+      "affitto_mq_mese": 9.21,
+      "affitto_80mq": 737,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/siracusa/"
+    },
+    "Sondrio": {
+      "prezzo_mq": 1434,
+      "affitto_mq_mese": 8.67,
+      "affitto_80mq": 694,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/sondrio/"
+    },
+    "Sud Sardegna": {
+      "prezzo_mq": 815,
+      "affitto_mq_mese": 6.91,
+      "affitto_80mq": 553,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sardegna/carbonia/"
+    },
+    "Taranto": {
+      "prezzo_mq": 945,
+      "affitto_mq_mese": 6.92,
+      "affitto_80mq": 554,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/puglia/taranto/"
+    },
+    "Teramo": {
+      "prezzo_mq": 1101,
+      "affitto_mq_mese": 6.69,
+      "affitto_80mq": 535,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/abruzzo/teramo/"
+    },
+    "Terni": {
+      "prezzo_mq": 1067,
+      "affitto_mq_mese": 7.15,
+      "affitto_80mq": 572,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/umbria/terni/"
+    },
+    "Torino": {
+      "prezzo_mq": 2223,
+      "affitto_mq_mese": 12.63,
+      "affitto_80mq": 1010,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/torino/"
+    },
+    "Trapani": {
+      "prezzo_mq": 944,
+      "affitto_mq_mese": 7.07,
+      "affitto_80mq": 566,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/sicilia/trapani/"
+    },
+    "Trento": {
+      "prezzo_mq": 3469,
+      "affitto_mq_mese": 12.95,
+      "affitto_80mq": 1036,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/trentino-alto-adige/trento/"
+    },
+    "Treviso": {
+      "prezzo_mq": 2758,
+      "affitto_mq_mese": 12.74,
+      "affitto_80mq": 1019,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/treviso/"
+    },
+    "Trieste": {
+      "prezzo_mq": 2644,
+      "affitto_mq_mese": 11.42,
+      "affitto_80mq": 914,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/friuli-venezia-giulia/trieste/"
+    },
+    "Udine": {
+      "prezzo_mq": 1821,
+      "affitto_mq_mese": 9.43,
+      "affitto_80mq": 754,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/friuli-venezia-giulia/udine/"
+    },
+    "Varese": {
+      "prezzo_mq": 1916,
+      "affitto_mq_mese": 11.98,
+      "affitto_80mq": 958,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lombardia/varese/"
+    },
+    "Venezia": {
+      "prezzo_mq": 3343,
+      "affitto_mq_mese": 16.01,
+      "affitto_80mq": 1281,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/venezia/"
+    },
+    "Verbania": {
+      "prezzo_mq": 2690,
+      "affitto_mq_mese": 11.12,
+      "affitto_80mq": 890,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/verbania/"
+    },
+    "Vercelli": {
+      "prezzo_mq": 954,
+      "affitto_mq_mese": 8.98,
+      "affitto_80mq": 718,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/piemonte/vercelli/"
+    },
+    "Verona": {
+      "prezzo_mq": 2874,
+      "affitto_mq_mese": 12.42,
+      "affitto_80mq": 994,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/verona/"
+    },
+    "Vibo Valentia": {
+      "prezzo_mq": 814,
+      "affitto_mq_mese": 5.8,
+      "affitto_80mq": 464,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/calabria/vibo-valentia/"
+    },
+    "Vicenza": {
+      "prezzo_mq": 1871,
+      "affitto_mq_mese": 10.84,
+      "affitto_80mq": 867,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/veneto/vicenza/"
+    },
+    "Viterbo": {
+      "prezzo_mq": 1354,
+      "affitto_mq_mese": 8.26,
+      "affitto_80mq": 661,
+      "period": "Aprile 2026",
+      "source": "Immobiliare.it - mercato immobiliare",
+      "url": "https://www.immobiliare.it/mercato-immobiliare/lazio/viterbo/"
+    }
+  },
+  "failures": {
+    "Bolzano": "https://www.immobiliare.it/mercato-immobiliare/trentino-alto-adige/bolzano-bozen/: 404",
+    "Reggio Emilia": "https://www.immobiliare.it/mercato-immobiliare/emilia-romagna/reggio-nell-emilia/: 404"
+  }
+}
